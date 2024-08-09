@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about Northern Corn Rootworm (NCR) and the impact of crop rotation on its population. The explanation of NCR's lifecycle, feeding habits, and the effect of rotating to non-host crops is correct.]
+
+2. Comprehensiveness (2/2) [The response covers all key aspects of how crop rotation impacts NCR populations, including the pest's lifecycle, the mechanism of population reduction, examples of non-host crops, and additional benefits of crop rotation.]
+
+3. Clarity (2/2) [The answer is well-structured, easy to understand, and free of ambiguity. It logically explains the process of how crop rotation affects NCR populations.]
+
+4. Actionability (1/2) [While the answer provides a clear explanation of why crop rotation is effective, it lacks specific, practical advice on how to implement a crop rotation strategy. It doesn't mention recommended rotation intervals or specific crop combinations.]
+
+5. Relevance (1/1) [The response directly addresses the farmer's question about the impact of crop rotation on Northern Corn Rootworm populations.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description incorrectly identifies the pest as a Japanese Beetle, when the ground truth classification is Southern Corn Rootworm. The description fails to accurately identify the pest species.]
+
+2. Damage Description (2/3) [The description provides some details on the potential damage caused by the pest, mentioning that it feeds on leaves and can cause skeletonization, reducing the plant's ability to photosynthesize. However, it does not specifically mention the impact on soybeans or the potential for yield loss, which would be more relevant for the Southern Corn Rootworm.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including handpicking the beetles, using insecticidal soaps or pyrethroids, and attracting natural predators. These recommendations are well-suited for addressing a Japanese Beetle infestation, though some adjustments may be needed for the Southern Corn Rootworm.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest as a Japanese Beetle, which is a significant error given the ground truth classification of Southern Corn Rootworm.]
+
+Total Score: (4/9)

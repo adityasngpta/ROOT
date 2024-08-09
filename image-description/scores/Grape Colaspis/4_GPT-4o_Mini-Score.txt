@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description accurately identifies the pest as a small insect, likely a beetle, with a light brown body and distinct striped pattern. However, it does not specifically identify the pest as a Grape Colaspis, which is the correct ground truth classification.]
+
+2. Damage Description (2/3) [The description provides some details about the insect's appearance and natural habitat, but does not mention any visible damage or potential impact on the plant's health.]
+
+3. Management Recommendations (0/3) [The description does not provide any recommendations for managing or preventing this pest infestation.]
+
+Miscellaneous (-1) [The description fails to correctly identify the pest as a Grape Colaspis, which is the ground truth classification provided.]
+
+Total Score: (3/9)

@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about different types of insecticides and their effectiveness against grasshoppers. It correctly mentions organophosphates, pyrethroids, and insect growth regulators, along with their modes of action and potential drawbacks.]
+
+2. Comprehensiveness (2/2) [The response covers a wide range of insecticide types, their effectiveness, potential environmental impacts, and even touches on resistance management and integrated pest management strategies.]
+
+3. Clarity (2/2) [The answer is well-structured, presenting information in a logical order. It uses clear language to explain complex concepts, making it easy for farmers to understand the differences between insecticide types.]
+
+4. Actionability (1/2) [While the answer provides useful information about different insecticides, it lacks specific recommendations on application rates or methods. It does mention following label recommendations and considering IPM strategies, but could be more specific about how to implement these practices.]
+
+5. Relevance (1/1) [The response directly addresses the farmer's question about comparing the effectiveness of different insecticides against grasshoppers.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

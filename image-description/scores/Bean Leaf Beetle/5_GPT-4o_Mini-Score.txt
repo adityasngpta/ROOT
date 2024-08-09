@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Grape Colaspis, which matches the ground truth classification of the pest in the image.]
+
+2. Damage Description (3/3) [The description thoroughly explains the feeding habits of Grape Colaspis larvae and the potential impact on crop health, including stunted growth, wilting, and increased susceptibility to diseases.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, such as monitoring for early signs of infestation, using crop rotation, applying beneficial nematodes, and using insecticides labeled for Grape Colaspis.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information.]
+
+Total Score: (9/9)

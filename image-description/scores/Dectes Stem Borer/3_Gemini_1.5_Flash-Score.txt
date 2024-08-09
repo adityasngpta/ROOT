@@ -1,0 +1,8 @@
+The description provided does not accurately identify the pest in the image. The image shows a metallic green beetle, which is likely a Bean Leaf Beetle, not the Dectes Stem Borer as stated in the ground truth classification. Therefore, I will adjust the scores accordingly.
+
+1. Pest Identification (2/3) [The description correctly identifies the pest as Bean Leaf Beetles, but does not match the ground truth classification of Dectes Stem Borer.]
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the Bean Leaf Beetles and the potential future impact on the soybean plant's health.]
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations for controlling the Bean Leaf Beetle infestation.]
+Miscellaneous (-1) [The description incorrectly states the ground truth pest classification, which is a significant error.]
+
+Total Score: (7/9)

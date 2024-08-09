@@ -1,0 +1,15 @@
+Let's evaluate the AI assistant's answer based on the given rubric:
+
+1. Accuracy (2/2) [The answer provides accurate information about the appearance and behavior of Grape Colaspis larvae. The description of their color, shape, size, and distinctive features is correct. The information about their habitat and feeding habits is also accurate.]
+
+2. Comprehensiveness (2/2) [The answer covers all key aspects of identifying Grape Colaspis larvae, including their physical characteristics, where to find them, and what damage symptoms to look for in the cornfield. It also mentions the importance of early identification.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand. It presents information in a logical order, starting with the larvae's appearance, then moving to their habitat, and finally discussing damage symptoms.]
+
+4. Actionability (2/2) [The answer provides specific, actionable advice for farmers. It tells them exactly what to look for (white to cream-colored grubs with brown heads, C-shaped, 1/2 inch long), where to look (in the soil, around corn roots), and what damage symptoms indicate a potential infestation.]
+
+5. Relevance (1/1) [The answer is highly relevant to the farmer's question, directly addressing how to identify Grape Colaspis larvae in corn fields.]
+
+6. Miscellaneous (-0) [No points subtracted.]
+
+Total Score: (9/9)

@@ -1,0 +1,11 @@
+The description provided does not match the ground truth classification of 'Cloverworm'. The description accurately identifies the pest as a Northern Corn Rootworm adult beetle, which is different from a Cloverworm. Therefore, the scores will need to be adjusted accordingly.
+
+1. Pest Identification (2/3) [The description accurately identifies the pest as a Northern Corn Rootworm adult beetle, but it does not match the ground truth classification of Cloverworm, resulting in a 2-point score.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the Northern Corn Rootworm beetle's feeding on the corn plant's leaves, as well as the potential future impact on the plant's health and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including the use of insecticides, crop rotation, and the use of beneficial insects.]
+
+Miscellaneous (0) [No additional points need to be deducted.]
+
+Total Score: 8/9

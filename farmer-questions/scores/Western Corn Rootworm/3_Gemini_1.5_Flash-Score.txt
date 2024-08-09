@@ -1,0 +1,13 @@
+1. Accuracy (1/2) [The answer contains some accurate information, but there are significant inaccuracies. The V4-V6 stage typically occurs in May-June, not just June. More importantly, this is not the best time to scout for adult WCR, which typically emerge in late June to early July. The description of egg scouting is also inaccurate, as WCR eggs are extremely small and not easily visible in the field.]
+
+2. Comprehensiveness (1/2) [The answer covers some aspects of scouting for WCR but misses crucial details. It doesn't mention the importance of scouting for larvae, which is typically done in May-June. The answer also lacks information on specific scouting techniques, such as root dig assessments or emergence cages.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand, providing a clear sequence of information about scouting and what to look for.]
+
+4. Actionability (1/2) [While the answer provides some actionable advice, such as looking for exit holes and checking for adult beetles, it lacks specific, practical details on how to conduct these scouting activities effectively. The advice on egg scouting is not practically implementable.]
+
+5. Relevance (1/1) [The answer is directly relevant to the farmer's question about scouting for Western Corn Rootworms.]
+
+6. Miscellaneous (-1) [Deducting an additional point for the potentially harmful misinformation about the timing of scouting, which could lead to ineffective pest management if followed.]
+
+Total Score: (5/9)

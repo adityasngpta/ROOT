@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about early signs of stink bug infestation in soybean fields, including visible damage to pods and seeds, appearance of stink bugs, and plant symptoms. All statements are correct and verifiable.]
+
+2. Comprehensiveness (2/2) [The response covers multiple aspects of early signs, including pod damage, seed damage, direct observation of insects, and plant symptoms. It also mentions the importance of regular scouting, addressing all key aspects of the question.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It presents information in a logical order, starting with visible damage and progressing to insect observation and plant symptoms.]
+
+4. Actionability (1/2) [While the answer provides useful information for identifying stink bug infestations, it only briefly mentions regular scouting as an action. It lacks specific guidance on how to conduct scouting or what to do if an infestation is detected.]
+
+5. Relevance (1/1) [The response is highly relevant to the farmer's question, directly addressing the early signs of stink bug infestation in soybean fields.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

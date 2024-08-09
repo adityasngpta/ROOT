@@ -1,0 +1,15 @@
+Here's my evaluation of the AI assistant's answer:
+
+1. Accuracy (2/2) [The information provided about the optimal scouting time (V4-V6 stage, typically mid-June) and the lifecycle of Southern Corn Rootworms is accurate. The description of damage signs and environmental conditions is also correct.]
+
+2. Comprehensiveness (2/2) [The answer covers all key aspects: optimal timing, reasons for this timing, signs of damage, and additional monitoring methods. It also mentions the importance of early detection and regular checking.]
+
+3. Clarity (2/2) [The response is well-structured and easy to understand. It provides clear information without ambiguity, using terms that farmers would be familiar with (e.g., V4-V6 growth stage).]
+
+4. Actionability (2/2) [The answer provides specific, actionable advice. It tells the farmer when to scout (V4-V6 stage, mid-June), what to look for (wilting, discoloration, root pruning), and suggests using traps for monitoring.]
+
+5. Relevance (1/1) [The response directly addresses the farmer's question about optimal scouting time for Southern Corn Rootworms, providing relevant information and context.]
+
+6. Miscellaneous (-0) [No points subtracted.]
+
+Total Score: (9/9)

@@ -1,0 +1,11 @@
+The description provided is incorrect. The pest in the image is not Japanese beetles, but rather Western Corn Rootworm, which is the correct ground truth classification.
+
+1. Pest Identification (2/3) [The description correctly identifies the pest as beetles, but incorrectly states they are Japanese beetles instead of the ground truth Western Corn Rootworm. The description lacks specificity in identifying the correct pest species.]
+
+2. Damage Description (3/3) [The description accurately describes the visible damage to the corn plant, including the holes and ragged edges on the leaves, which are characteristic of rootworm feeding.]
+
+3. Management Recommendations (3/3) [The description provides appropriate and specific management recommendations, including manual removal, use of insecticides, planting resistant varieties, and attracting natural predators.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest species, which is a significant error.]
+
+Total Score: (7/9)

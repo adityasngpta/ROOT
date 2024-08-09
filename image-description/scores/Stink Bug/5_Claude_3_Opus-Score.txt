@@ -1,0 +1,15 @@
+Based on the image and the provided ground truth that the pest is a Stink Bug, I will evaluate the description using the given rubric:
+
+1. Pest Identification (3/3)
+   Justification: The description accurately identifies the pest as a Stink Bug and correctly describes its position on the peach or similar stone fruit.
+
+2. Damage Description (3/3)
+   Justification: The description thoroughly describes the visible damage caused by the Stink Bug feeding, including the brown, corky spots on the fruit's surface. It also explains the potential future impact on the fruit's quality and marketability, as well as the risk of secondary infections.
+
+3. Management Recommendations (3/3)
+   Justification: The description provides specific, actionable, and appropriate pest management recommendations, including regular monitoring, cultural practices, the use of insecticides, and the implementation of an integrated pest management (IPM) approach. The recommendations are well-tailored to the Stink Bug infestation in stone fruit orchards.
+
+Miscellaneous (0)
+   Justification: The description is comprehensive, relevant, and does not contain any significant errors or irrelevant information.
+
+Total Score: 9/9

@@ -1,0 +1,11 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as Bean Leaf Beetles, which is consistent with the image showing the characteristic rounded feeding holes on the soybean leaves.
+
+2. Damage Description (3/3) - The description thoroughly explains the visible damage caused by the Bean Leaf Beetles, including the reduced photosynthetic capacity and potential for weakening the plant and making it more susceptible to other stresses. The details provided are comprehensive and relevant.
+
+3. Management Recommendations (3/3) - The description offers specific, actionable, and appropriate recommendations for managing the Bean Leaf Beetle infestation, including scouting, considering insecticide application based on defoliation levels, implementing cultural practices like crop rotation and planting early maturing varieties, and eliminating weed hosts. These recommendations are well-suited to address the pest problem.
+
+Miscellaneous (0) - No significant errors, omissions, or irrelevant information were identified.
+
+Total Score: 9/9
+
+The description provided is comprehensive, accurate, and aligned with the ground truth pest classification of Bean Leaf Beetles. The identification, damage assessment, and management recommendations are all thorough and appropriate, earning a perfect score.

@@ -1,0 +1,13 @@
+1. Accuracy (1/2) [The answer contains some accurate information about Northern Corn Rootworm (NCR), but there's a significant error. The "shotgun" holes described are typically associated with adult Western Corn Rootworm feeding, not Northern Corn Rootworm. NCR adults generally cause less visible leaf feeding damage. This inaccuracy could mislead farmers in their pest identification efforts.]
+
+2. Comprehensiveness (1/2) [The answer covers some aspects of NCR infestation signs, but it misses crucial early indicators. It doesn't mention the primary early sign: wilting or lodging of corn plants due to root damage caused by larvae. Additionally, it doesn't discuss the "goose-necking" or bent stalks that can occur as plants try to compensate for root damage.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand. It presents information in a logical order and uses clear language that farmers can easily follow.]
+
+4. Actionability (1/2) [The answer provides some actionable advice, such as scouting for adult beetles and monitoring their activity. However, it lacks specific details on how to conduct these activities effectively. It also doesn't mention other important actions like soil sampling or setting up sticky traps to monitor adult populations.]
+
+5. Relevance (1/1) [The answer is relevant to the farmer's question about early signs of Northern Corn Rootworm infestation, despite the inaccuracies.]
+
+6. Miscellaneous (-1) [An additional point is deducted for the potential confusion caused by mixing up Northern and Western Corn Rootworm characteristics, which could lead to misidentification and improper management strategies.]
+
+Total Score: (5/9)

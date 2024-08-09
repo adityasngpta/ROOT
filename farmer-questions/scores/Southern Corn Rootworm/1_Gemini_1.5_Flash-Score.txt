@@ -1,0 +1,15 @@
+I will now evaluate and score the AI assistant's answer based on the provided rubric:
+
+1. Accuracy (2/2) [The answer provides accurate information about Southern Corn Rootworm (SCRW) infestation signs. The descriptions of wilting, stunted growth, root damage, "dead heart" or "whiptail" symptoms, lodging, and premature plant death are all correct and consistent with established knowledge about SCRW infestations.]
+
+2. Comprehensiveness (2/2) [The response covers a wide range of signs and symptoms associated with SCRW infestations, including above-ground and below-ground indicators. It addresses various stages of infestation severity and provides context for when these signs might appear.]
+
+3. Clarity (2/2) [The answer is well-structured, using bullet points to clearly separate different signs of infestation. Technical terms are explained in parentheses or with descriptive language, making the information easy to understand for farmers with varying levels of expertise.]
+
+4. Actionability (2/2) [The response provides specific, actionable advice for farmers. It suggests regular monitoring of crops, describes how to check for root damage, and recommends consulting with extension agents or pest control professionals if an infestation is suspected.]
+
+5. Relevance (1/1) [The answer directly addresses the farmer's question about signs of Southern Corn Rootworm infestation in corn crops, providing relevant and specific information.]
+
+6. Miscellaneous (-0) [No points subtracted; the answer maintains a high standard throughout.]
+
+Total Score: (9/9)

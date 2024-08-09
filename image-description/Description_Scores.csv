@@ -1,0 +1,102 @@
+Image,Claude 3.5 Sonnet,Claude 3 Haiku,Claude 3 Opus,GPT-4 Turbo,GPT-4o Mini,GPT-4o,Gemini 1.5 Flash,Gemini 1.5 Pro
+images/Stink Bug/8.jpg,9,9,9,9,9,9,6,6
+images/Stink Bug/9.jpg,8,9,9,4,8,9,9,8
+images/Stink Bug/10.jpg,9,9,9,9,9,9,4,5
+images/Stink Bug/4.jpg,9,9,9,9,9,9,8,5
+images/Stink Bug/5.jpg,9,9,9,9,9,9,8,9
+images/Stink Bug/7.jpg,9,9,9,9,9,9,8,6
+images/Stink Bug/6.jpg,9,6,9,9,7,9,4,9
+images/Stink Bug/2.jpg,9,9,9,9,9,9,6,9
+images/Stink Bug/3.jpg,9,9,9,9,9,9,8,9
+images/Stink Bug/1.jpg,9,9,9,9,9,9,6,3
+images/Northern Corn Rootworm/8.jpg,9,4,9,9,7,9,6,3
+images/Northern Corn Rootworm/9.jpg,9,4,4,9,9,9,9,3
+images/Northern Corn Rootworm/10.jpg,9,4,4,9,4,9,5,8
+images/Northern Corn Rootworm/4.jpg,9,4,4,9,5,9,9,4
+images/Northern Corn Rootworm/5.jpg,9,6,6,9,5,9,9,0
+images/Northern Corn Rootworm/7.jpg,9,9,9,9,4,9,9,9
+images/Northern Corn Rootworm/6.jpg,9,4,4,9,9,9,8,3
+images/Northern Corn Rootworm/2.jpg,9,4,8,9,7,9,9,3
+images/Northern Corn Rootworm/3.jpg,9,5,6,9,5,9,9,3
+images/Northern Corn Rootworm/1.jpg,8,4,8,5,3,9,9,3
+images/Southern Corn Rootworm/8.jpg,9,5,9,9,9,9,8,3
+images/Southern Corn Rootworm/9.jpg,8,5,7,4,9,4,8,3
+images/Southern Corn Rootworm/10.jpg,9,5,9,9,9,9,4,3
+images/Southern Corn Rootworm/4.jpg,9,9,9,9,9,9,6,3
+images/Southern Corn Rootworm/5.jpg,9,9,9,9,4,9,5,3
+images/Southern Corn Rootworm/7.jpg,9,4,8,9,9,9,9,3
+images/Southern Corn Rootworm/6.jpg,9,8,9,9,8,9,8,3
+images/Southern Corn Rootworm/2.jpg,9,9,6,8,4,9,8,3
+images/Southern Corn Rootworm/3.jpg,9,4,8,9,4,9,8,8
+images/Southern Corn Rootworm/1.jpg,9,9,9,9,4,9,9,0
+images/Grasshopper/8.jpg,9,9,9,9,3,9,9,9
+images/Grasshopper/9.jpg,9,9,9,9,5,9,9,9
+images/Grasshopper/10.jpg,9,9,9,9,9,9,7,9
+images/Grasshopper/4.jpg,9,9,9,9,5,9,5,3
+images/Grasshopper/5.jpg,9,9,8,9,8,9,6,6
+images/Grasshopper/7.jpg,9,9,9,,9,9,6,9
+images/Grasshopper/6.jpg,9,9,9,9,9,9,8,9
+images/Grasshopper/2.jpg,9,9,9,9,9,9,3,9
+images/Grasshopper/3.jpg,9,9,8,9,9,9,8,6
+images/Grasshopper/1.jpg,9,9,4,6,1,2,7,9
+images/Grape Colaspis/8.jpg,9,4,8,7,9,9,9,9
+images/Grape Colaspis/9.jpg,9,9,4,9,9,9,8,9
+images/Grape Colaspis/10.jpg,9,4,7,9,9,9,9,9
+images/Grape Colaspis/4.jpg,9,4,9,9,3,9,9,9
+images/Grape Colaspis/5.jpg,9,9,9,9,9,9,9,3
+images/Grape Colaspis/7.jpg,9,9,9,9,9,9,6,7
+images/Grape Colaspis/6.jpg,9,8,4,7,9,9,9,8
+images/Grape Colaspis/2.jpg,9,5,9,8,5,9,9,3
+images/Grape Colaspis/3.jpg,9,4,6,9,6,9,9,9
+images/Grape Colaspis/1.jpg,9,9,7,9,9,9,9,3
+images/Japanese Beetle/8.jpg,9,9,9,9,9,9,9,9
+images/Japanese Beetle/9.jpg,9,9,9,9,6,9,9,9
+images/Japanese Beetle/10.jpg,9,9,9,9,9,9,9,3
+images/Japanese Beetle/4.jpg,9,9,9,9,9,9,9,0
+images/Japanese Beetle/5.jpg,9,9,9,9,3,9,9,6
+images/Japanese Beetle/7.jpg,9,9,9,9,9,9,9,7
+images/Japanese Beetle/6.jpg,9,9,9,9,6,9,9,3
+images/Japanese Beetle/2.jpg,9,9,9,9,9,9,9,9
+images/Japanese Beetle/3.jpg,9,9,9,9,9,9,9,9
+images/Japanese Beetle/1.jpg,9,9,9,9,9,9,8,0
+images/Bean Leaf Beetle/8.jpg,9,8,9,9,9,9,6,3
+images/Bean Leaf Beetle/9.jpg,9,8,9,9,9,9,6,9
+images/Bean Leaf Beetle/10.jpg,9,6,9,9,4,9,7,0
+images/Bean Leaf Beetle/4.jpg,9,7,9,9,9,9,9,3
+images/Bean Leaf Beetle/5.jpg,9,9,9,9,9,9,9,3
+images/Bean Leaf Beetle/7.jpg,9,9,9,9,9,9,6,9
+images/Bean Leaf Beetle/6.jpg,9,4,9,9,9,9,7,3
+images/Bean Leaf Beetle/2.jpg,9,4,9,9,9,9,7,9
+images/Bean Leaf Beetle/3.jpg,9,4,9,9,9,9,8,3
+images/Bean Leaf Beetle/1.jpg,9,3,6,8,5,4,6,9
+images/Dectes Stem Borer/8.jpg,9,0,9,9,4,9,7,2
+images/Dectes Stem Borer/9.jpg,9,4,9,7,8,9,4,3
+images/Dectes Stem Borer/10.jpg,9,4,3,9,9,9,4,9
+images/Dectes Stem Borer/4.jpg,9,9,9,4,9,9,8,9
+images/Dectes Stem Borer/5.jpg,7,6,2,9,9,9,8,3
+images/Dectes Stem Borer/7.jpg,9,0,4,9,0,9,6,9
+images/Dectes Stem Borer/6.jpg,9,4,4,9,4,9,8,6
+images/Dectes Stem Borer/2.jpg,9,9,8,9,5,9,9,4
+images/Dectes Stem Borer/3.jpg,9,9,9,9,9,9,7,3
+images/Dectes Stem Borer/1.jpg,9,4,9,9,9,9,8,0
+images/Western Corn Rootworm/8.jpg,8,8,9,9,9,9,6,9
+images/Western Corn Rootworm/9.jpg,9,8,9,9,4,9,6,9
+images/Western Corn Rootworm/10.jpg,9,9,9,9,9,9,9,8
+images/Western Corn Rootworm/4.jpg,9,4,4,9,9,9,9,7
+images/Western Corn Rootworm/5.jpg,9,7,4,9,4,9,4,9
+images/Western Corn Rootworm/7.jpg,9,4,9,7,4,9,6,6
+images/Western Corn Rootworm/6.jpg,9,9,9,9,4,9,9,0
+images/Western Corn Rootworm/2.jpg,9,4,0,9,5,9,6,9
+images/Western Corn Rootworm/3.jpg,9,6,8,9,5,9,3,3
+images/Western Corn Rootworm/1.jpg,9,4,9,9,9,9,7,3
+images/Cloverworm/8.jpg,8,9,9,8,4,9,4,3
+images/Cloverworm/9.jpg,9,9,9,9,9,9,8,9
+images/Cloverworm/10.jpg,1,7,9,9,3,9,9,3
+images/Cloverworm/4.jpg,9,4,9,9,7,9,3,3
+images/Cloverworm/5.jpg,4,4,9,7,9,9,3,5
+images/Cloverworm/7.jpg,9,9,9,4,8,9,6,6
+images/Cloverworm/6.jpg,9,9,9,6,3,9,8,9
+images/Cloverworm/2.jpg,9,9,9,5,9,9,6,3
+images/Cloverworm/3.jpg,9,9,9,7,9,9,9,6
+images/Cloverworm/1.jpg,9,9,9,9,9,9,8,3
+Average,8.8,7.01010101,7.848837209302325,8.489795918367347,7.15,8.83,7.34,5

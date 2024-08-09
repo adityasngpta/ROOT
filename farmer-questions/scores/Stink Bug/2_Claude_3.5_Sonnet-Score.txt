@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about stink bug damage characteristics across different crops. The description of damage patterns, such as small discolored areas, puncture marks, and the water-soaked appearance, is correct. The distinction from other pests' damage patterns is also accurately presented.]
+
+2. Comprehensiveness (2/2) [The response covers a wide range of crops (fruits, vegetables, corn, soybeans, cotton) and describes the specific damage patterns for each. It also mentions the distinctive odor associated with stink bugs and advises consulting with an agricultural extension agent for definitive identification.]
+
+3. Clarity (2/2) [The answer is well-structured, presenting information in a logical order. It uses clear, descriptive language that is easy to understand, avoiding technical jargon that might confuse a farmer.]
+
+4. Actionability (1/2) [While the answer provides detailed information on identifying stink bug damage, it lacks specific actionable steps for the farmer to take in differentiating the damage. It does suggest consulting an extension agent, which is actionable, but could have included more immediate steps the farmer could take.]
+
+5. Relevance (1/1) [The response directly addresses the farmer's question about differentiating stink bug damage from other pests, providing relevant information throughout.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

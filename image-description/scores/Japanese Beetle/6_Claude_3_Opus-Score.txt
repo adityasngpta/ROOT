@@ -1,0 +1,11 @@
+Based on the description provided and the ground truth classification of the pest as Japanese Beetles (Popillia japonica), I will score the given description as follows:
+
+1. Pest Identification (3/3) [The description accurately identifies the pest species as Japanese Beetles and correctly describes their presence on the plant leaves.]
+
+2. Damage Description (3/3) [The description thoroughly explains the visible damage caused by the Japanese Beetles, including the skeletonization of the leaves, and the potential future impact on the plant's photosynthetic capacity and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate recommendations for managing the Japanese Beetle infestation, including handpicking the adults, applying registered insecticides, using row covers, employing cultural practices, and using pheromone traps.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information noted.]
+
+Total Score: (9/9)

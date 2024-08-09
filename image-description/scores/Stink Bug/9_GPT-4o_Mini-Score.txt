@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The image clearly shows a stink bug on the plant, which matches the ground truth classification provided. The description accurately identifies the pest species and its location on the crop.
+
+2. Damage Description (2/3) - The description provides some details on the potential damage the stink bug could cause, such as sapping nutrients and impacting plant health and yield. However, it lacks specificity on the visible signs of damage that may be observed on the leaves or fruit.
+
+3. Management Recommendations (3/3) - The description offers several appropriate and actionable management strategies, including physical removal of pests, use of insecticides (if necessary), introduction of beneficial insects, and maintaining overall plant health through proper care. The recommendations are specific and relevant to addressing the stink bug infestation.
+
+Miscellaneous (0) - No significant errors or omissions were noted.
+
+Total Score: 8/9

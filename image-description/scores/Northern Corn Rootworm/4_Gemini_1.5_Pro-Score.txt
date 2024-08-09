@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description incorrectly identifies the pest as Japanese Beetle, when the ground truth is Northern Corn Rootworm. The description fails to accurately identify the correct pest species.]
+
+2. Damage Description (3/3) [The description thoroughly and accurately describes the visible damage to the soybean leaves, including the skeletonized appearance and potential for rapid population growth and yield loss.]
+
+3. Management Recommendations (2/3) [The description provides general recommendations to take immediate action to protect the soybean crop, but lacks specificity on the appropriate pest management strategies for Northern Corn Rootworm.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest as Japanese Beetle, which is a significant error given the ground truth classification.]
+
+Total Score: (4/9)

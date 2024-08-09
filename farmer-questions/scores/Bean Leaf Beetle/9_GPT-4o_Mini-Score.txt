@@ -1,0 +1,13 @@
+1. Accuracy (1/2) [The answer provides generally accurate information about cover crops and their potential benefits for pest management. However, it lacks specific verification for some claims, particularly regarding the direct impact on Bean Leaf Beetles. The statement about legumes disrupting the beetle's life cycle is not fully accurate, as legumes can actually be a preferred host for these pests.]
+
+2. Comprehensiveness (1/2) [The response covers several aspects of how cover crops can help manage pests, including soil health, beneficial insects, and plant resilience. However, it misses important details such as specific cover crop species that are effective against Bean Leaf Beetles, timing of planting, and how to integrate cover crops with other pest management strategies.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It presents information in a logical flow without ambiguity.]
+
+4. Actionability (1/2) [While the answer provides general advice on using cover crops for pest management, it lacks specific, practical details on how to implement this strategy. It doesn't offer guidance on which cover crops to use, when to plant them, or how to manage them in relation to the main crop.]
+
+5. Relevance (1/1) [The response is highly relevant to the farmer's question, directly addressing the potential of cover crops in managing Bean Leaf Beetle infestations.]
+
+6. Miscellaneous (-1) [Deducting a point for the potentially misleading information about legumes, which could lead to ineffective pest management strategies if implemented without further research.]
+
+Total Score: (5/9)

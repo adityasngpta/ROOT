@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description incorrectly identifies the pest as Japanese Beetles, when the ground truth indicates the pest is actually Stink Bugs. The description fails to accurately identify the correct pest species.]
+
+2. Damage Description (3/3) [The description thoroughly and accurately describes the visible damage caused by the pest feeding on the soybean leaves, as well as the potential future impact on crop health and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including the use of insecticides, setting up traps, maintaining plant health, and encouraging beneficial insects.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest as Japanese Beetles, which is a significant error given the ground truth classification of Stink Bugs.]
+
+Total Score: (5/9)

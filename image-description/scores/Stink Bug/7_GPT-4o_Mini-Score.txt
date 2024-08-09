@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Stink Bug, which is consistent with the ground truth classification provided. The description provides specific details about the physical characteristics of the Stink Bug, such as its shield-shaped body and distinctive coloration and markings.]
+
+2. Damage Description (3/3) [The description thoroughly explains the potential impact of Stink Bug infestations on crop health, including leaf disfiguration, fruit blemishing, and plant stunting or wilting. It also discusses how the presence of Stink Bugs can indicate plant stress and make the crop more susceptible to disease, ultimately reducing yields.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including regular monitoring, the use of insecticidal treatments (with instructions to follow label guidelines), and the implementation of good agricultural practices such as crop rotation and maintaining healthy plant populations. The recommendations also suggest keeping fields clean and free of debris to deter Stink Bugs.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information were found in the description.]
+
+Total Score: (9/9)

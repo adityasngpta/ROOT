@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about Northern Corn Rootworm (NCR) biology, the impact of crop rotation on NCR populations, and the adaptation of some NCR populations to crop rotation. The information aligns with current scientific understanding of NCR management.]
+
+2. Comprehensiveness (2/2) [The response covers all key aspects of how crop rotation impacts NCR populations, including the basic mechanism, its effectiveness, and limitations due to NCR adaptation. It also mentions the need for integrated pest management strategies.]
+
+3. Clarity (2/2) [The answer is well-structured, logically presented, and easy to understand. It explains the concept clearly, starting with NCR biology, moving to the impact of crop rotation, and concluding with adaptation and management strategies.]
+
+4. Actionability (1/2) [While the answer provides useful information about crop rotation and its impact on NCR, it lacks specific, practical advice on how to implement an effective rotation strategy. It mentions other management strategies but doesn't provide details on how to combine these with crop rotation effectively.]
+
+5. Relevance (1/1) [The response directly addresses the farmer's question about the impact of crop rotation on NCR populations, providing relevant information throughout.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

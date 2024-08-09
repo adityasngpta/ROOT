@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Cloverworm (Hypena scabra), a species of moth that can be a pest in agricultural settings. The description provides specific details about the physical characteristics of the moth in the image, which match the ground truth classification.]
+
+2. Damage Description (3/3) [The description thoroughly explains the potential impact of Cloverworm infestations on crop health, noting that the larvae can chew holes in leaves and defoliate plants, reducing photosynthesis and ultimately lowering crop yields if left unmanaged. The description also observes that the leaf in the background appears healthy, indicating an early presence of the pest.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including regular scouting, the use of biological and chemical controls, and preventive measures such as crop rotation and maintaining field hygiene. The description emphasizes the importance of monitoring and early intervention to prevent significant damage and preserve crop health.]
+
+Miscellaneous (0) [No points deducted, the description is comprehensive and accurate.]
+
+Total Score: (9/9)

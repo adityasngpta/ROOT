@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description accurately identifies the pest as a type of moth, likely belonging to the noctuid family, but lacks specificity in identifying the exact pest species as Cloverworm, which is the ground truth classification.]
+
+2. Damage Description (2/3) [The description provides a general overview of the potential threat posed by the moth, such as the possibility of larvae feeding on leaves, stems, and crops. However, it lacks specific details on the visible damage or potential future impact on the crop health.]
+
+3. Management Recommendations (3/3) [The description provides appropriate and specific management recommendations, including the use of pheromone traps, biological control, and the judicious use of insecticides. It also emphasizes the importance of monitoring, identifying the pest species, and consulting with agricultural experts.]
+
+Miscellaneous (-1) [The description incorrectly states that the pest is not specifically listed in the common agricultural pests, when the ground truth classification is Cloverworm, which is a known agricultural pest.]
+
+Total Score: (6/9)

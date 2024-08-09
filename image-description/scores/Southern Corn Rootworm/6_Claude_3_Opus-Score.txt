@@ -1,0 +1,11 @@
+Based on the image provided, the pest appears to be a Spotted Cucumber Beetle (Diabrotica undecimpunctata), which is the correct ground truth classification.
+
+1. Pest Identification (3/3) [The description accurately identifies the pest species as a Spotted Cucumber Beetle and correctly describes its distinctive yellow-green body with 11 black spots on the elytra, which are characteristic features of this pest.]
+
+2. Damage Description (3/3) [The description thoroughly explains the potential damage caused by the Spotted Cucumber Beetle, including feeding on leaves, stems, and flowers, as well as the larvae feeding on roots, which can lead to wilting, stunted growth, and plant death. The description also mentions the pest's ability to transmit plant diseases, further compromising crop health and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including monitoring the crop, using row covers, applying insecticides, practicing crop rotation, and maintaining good sanitation practices. These recommendations are well-suited to address the Spotted Cucumber Beetle infestation.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information noted.]
+
+Total Score: 9/9

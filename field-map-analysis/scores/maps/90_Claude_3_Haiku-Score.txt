@@ -1,0 +1,17 @@
+Pest Cluster Region (1/1) [The analysis correctly identifies the pest cluster as located in the southwest region of the field.]
+
+Infestation Severity (1/1) [The analysis accurately determines the severity of the infestation as high, based on the presence of cells with 4 or more pests, including a maximum of 8 pests in a single cell.]
+
+Max Pest Count (1/1) [The analysis correctly identifies the maximum pest count in a single cell as 8.]
+
+Pest Cluster Size (1/1) [The analysis accurately determines the size of the pest cluster as 9 plants.]
+
+Total Pest Count (0/1) [The analysis underestimates the total pest count, stating there are 28 pests, when the ground truth data shows there are 35 pests in the field.]
+
+Field Size (1/1) [The analysis correctly identifies the field size as 5 rows by 7 columns.]
+
+Treatment Insights (3/3) [The analysis provides highly specific, data-driven recommendations for pest management and prevention, considering the pest type, severity, and field conditions. The recommendations are actionable and feasible within the context of the provided data.]
+
+Miscellaneous (-1) [The analysis underestimates the total pest count, which is a significant error that should be reflected in the overall score.]
+
+Total Score: (7/9)

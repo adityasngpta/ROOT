@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The image accurately identifies the pest as a Northern Corn Rootworm, which matches the ground truth classification provided. The description clearly locates the pest on the yellow flower.]
+
+2. Damage Description (2/3) [The description provides some details about the visible damage, such as the beetle's presence on the flower. However, it lacks information about the potential future impact on the crop's health.]
+
+3. Management Recommendations (0/3) [The description does not provide any recommendations for managing or preventing the Northern Corn Rootworm infestation.]
+
+Miscellaneous (0) [No additional points deducted.]
+
+Total Score: (5/9)

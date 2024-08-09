@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description accurately identifies the pest as a beetle, likely a member of the longhorn beetle family, but does not specifically identify it as the Dectes Stem Borer, which is the ground truth pest classification. The description lacks the specificity required to fully identify the pest.]
+
+2. Damage Description (2/3) [The description notes that the plant appears generally healthy without obvious signs of severe damage or stress, which is accurate based on the image. However, it does not provide details on the potential future impact of the pest on the crop health.]
+
+3. Management Recommendations (3/3) [The description provides appropriate and specific recommendations for managing a potential pest infestation, including regular monitoring, mechanical methods, and the judicious use of insecticides if necessary. It also suggests good field sanitation and crop rotation as preventative measures.]
+
+Miscellaneous (0)
+
+Total Score: (7/9)

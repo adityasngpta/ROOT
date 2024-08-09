@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as Bean Leaf Beetles, which is consistent with the ground truth classification of Grape Colaspis. The description provides a clear and specific identification of the pest and its location on the soybean plant.
+
+2. Damage Description (3/3) - The description thoroughly describes the visible damage caused by the Bean Leaf Beetles, including numerous holes, skeletonized areas on the leaves, and damage to the stem. It also accurately notes the signs of stress in the soybean plant, such as wilted and discolored leaves, and the potential for significant yield loss if left unchecked.
+
+3. Management Recommendations (3/3) - The description provides specific, actionable, and appropriate recommendations for managing the Bean Leaf Beetle infestation, including early detection and treatment, chemical control with insecticides, biological control using natural enemies, and cultural practices like planting resistant varieties and monitoring for adult beetles. The recommendations cover a comprehensive and effective approach to pest management.
+
+Miscellaneous (0) - The description is well-written, relevant, and does not contain any significant errors or irrelevant information.
+
+Total Score: 9/9

@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description incorrectly identifies the pest as a Grasshopper, when the ground truth classification is a Bean Leaf Beetle. The description does not accurately identify the pest species or its position on the crop.]
+
+2. Damage Description (2/3) [The description provides some details on the potential damage that Grasshoppers can cause to crops, such as chewing on leaves, stems, and flowers. However, it does not specifically address the potential impact of a Bean Leaf Beetle infestation on this particular crop.]
+
+3. Management Recommendations (2/3) [The recommendations provided are generally appropriate for managing a Grasshopper infestation, such as using physical controls, targeted insecticides, and cultural practices. However, the recommendations do not specifically address the management of a Bean Leaf Beetle infestation.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest as a Grasshopper, which is a significant error given the ground truth classification of a Bean Leaf Beetle.]
+
+Total Score: (3/9)

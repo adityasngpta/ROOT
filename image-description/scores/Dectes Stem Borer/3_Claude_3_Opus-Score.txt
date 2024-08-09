@@ -1,0 +1,8 @@
+Based on the image provided, the pest appears to be a Japanese Beetle (Popillia japonica), not the ground truth classification of Dectes Stem Borer. The description accurately identifies the key identifying features of the Japanese Beetle, including the distinctive metallic green head and thorax with copper-colored wing covers. The description also correctly identifies the pest's feeding activity on the soybean plant leaves and the potential impact on crop health and yield.
+
+1. Pest Identification (3/3) [The description accurately identifies the Japanese Beetle pest and its location on the soybean plant.]
+2. Damage Description (3/3) [The description thoroughly describes the visible feeding damage caused by the Japanese Beetle and the potential future impact on the soybean crop.]
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate recommendations for managing Japanese Beetle infestations, including monitoring, cultural practices, and the judicious use of insecticides.]
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information.]
+
+Total Score: (9/9)

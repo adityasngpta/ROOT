@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as the Southern Corn Rootworm, which matches the ground truth classification provided.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage to the leaf, including the irregular edges and holes, and explains how this can impact the plant's overall health and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including monitoring, using IPM strategies, applying insecticides, implementing crop rotation, and maintaining plant health.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information.]
+
+Total Score: (9/9)

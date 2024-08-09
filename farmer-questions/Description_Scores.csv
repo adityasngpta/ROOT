@@ -1,0 +1,102 @@
+Image,Claude 3.5 Sonnet,Claude 3 Haiku,Claude 3 Opus,GPT-4 Turbo,GPT-4o Mini,GPT-4o,Gemini 1.5 Flash,Gemini 1.5 Pro
+questions/Stink Bug/10.txt,8.0,8.0,8.0,8.0,9.0,8.0,9.0,8.0
+questions/Stink Bug/9.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Stink Bug/8.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Stink Bug/5.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Stink Bug/4.txt,9.0,8.0,9.0,9.0,9.0,8.0,9.0,8.0
+questions/Stink Bug/6.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Stink Bug/7.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,7.0
+questions/Stink Bug/3.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Stink Bug/2.txt,8.0,8.0,9.0,8.0,8.0,8.0,8.0,8.0
+questions/Stink Bug/1.txt,9.0,8.0,9.0,8.0,8.0,8.0,8.0,9.0
+questions/Northern Corn Rootworm/10.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Northern Corn Rootworm/9.txt,8.0,8.0,9.0,7.0,9.0,9.0,8.0,8.0
+questions/Northern Corn Rootworm/8.txt,9.0,8.0,9.0,7.0,7.0,7.0,7.0,8.0
+questions/Northern Corn Rootworm/5.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Northern Corn Rootworm/4.txt,8.0,8.0,9.0,8.0,8.0,8.0,9.0,8.0
+questions/Northern Corn Rootworm/6.txt,9.0,9.0,9.0,9.0,6.0,9.0,9.0,9.0
+questions/Northern Corn Rootworm/7.txt,8.0,8.0,8.0,8.0,8.0,8.0,9.0,8.0
+questions/Northern Corn Rootworm/3.txt,9.0,9.0,9.0,7.0,9.0,9.0,7.0,7.0
+questions/Northern Corn Rootworm/2.txt,9.0,8.0,9.0,9.0,9.0,8.0,9.0,8.0
+questions/Northern Corn Rootworm/1.txt,9.0,9.0,8.0,8.0,8.0,7.0,9.0,5.0
+questions/Southern Corn Rootworm/10.txt,9.0,8.0,9.0,9.0,9.0,8.0,9.0,9.0
+questions/Southern Corn Rootworm/9.txt,9.0,9.0,9.0,9.0,8.0,9.0,9.0,9.0
+questions/Southern Corn Rootworm/8.txt,9.0,8.0,8.0,7.0,7.0,7.0,7.0,9.0
+questions/Southern Corn Rootworm/5.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Southern Corn Rootworm/4.txt,8.0,8.0,8.0,8.0,7.0,8.0,9.0,8.0
+questions/Southern Corn Rootworm/6.txt,9.0,7.0,9.0,7.0,6.0,9.0,7.0,8.0
+questions/Southern Corn Rootworm/7.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Southern Corn Rootworm/3.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,7.0
+questions/Southern Corn Rootworm/2.txt,9.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Southern Corn Rootworm/1.txt,8.0,7.0,8.0,8.0,8.0,8.0,9.0,8.0
+questions/Grasshopper/10.txt,9.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Grasshopper/9.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Grasshopper/8.txt,9.0,7.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Grasshopper/5.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Grasshopper/4.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Grasshopper/6.txt,8.0,8.0,8.0,8.0,8.0,8.0,9.0,8.0
+questions/Grasshopper/7.txt,9.0,9.0,9.0,7.0,9.0,9.0,9.0,9.0
+questions/Grasshopper/3.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Grasshopper/2.txt,9.0,9.0,8.0,8.0,8.0,8.0,8.0,7.0
+questions/Grasshopper/1.txt,9.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Grape Colaspis/10.txt,8.0,8.0,9.0,9.0,5.0,8.0,9.0,9.0
+questions/Grape Colaspis/9.txt,9.0,8.0,8.0,8.0,8.0,7.0,7.0,8.0
+questions/Grape Colaspis/8.txt,8.0,8.0,8.0,8.0,9.0,8.0,7.0,8.0
+questions/Grape Colaspis/5.txt,8.0,9.0,8.0,7.0,6.0,6.0,8.0,8.0
+questions/Grape Colaspis/4.txt,8.0,8.0,9.0,8.0,8.0,8.0,9.0,9.0
+questions/Grape Colaspis/6.txt,8.0,8.0,9.0,8.0,7.0,7.0,9.0,8.0
+questions/Grape Colaspis/7.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Grape Colaspis/3.txt,9.0,8.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Grape Colaspis/2.txt,8.0,9.0,8.0,8.0,7.0,8.0,8.0,8.0
+questions/Grape Colaspis/1.txt,9.0,8.0,9.0,9.0,9.0,9.0,2.0,9.0
+questions/Japanese Beetle/10.txt,9.0,8.0,9.0,9.0,7.0,9.0,9.0,8.0
+questions/Japanese Beetle/9.txt,9.0,6.0,9.0,9.0,9.0,9.0,9.0,7.0
+questions/Japanese Beetle/8.txt,9.0,9.0,9.0,9.0,8.0,8.0,9.0,8.0
+questions/Japanese Beetle/5.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Japanese Beetle/4.txt,9.0,8.0,9.0,8.0,8.0,8.0,9.0,8.0
+questions/Japanese Beetle/6.txt,8.0,8.0,9.0,9.0,8.0,9.0,9.0,8.0
+questions/Japanese Beetle/7.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Japanese Beetle/3.txt,9.0,9.0,9.0,7.0,9.0,9.0,9.0,9.0
+questions/Japanese Beetle/2.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Japanese Beetle/1.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Bean Leaf Beetle/10.txt,8.0,8.0,9.0,9.0,9.0,8.0,9.0,9.0
+questions/Bean Leaf Beetle/9.txt,9.0,8.0,8.0,7.0,5.0,7.0,8.0,9.0
+questions/Bean Leaf Beetle/8.txt,8.0,8.0,9.0,8.0,7.0,8.0,9.0,8.0
+questions/Bean Leaf Beetle/5.txt,9.0,8.0,8.0,8.0,9.0,8.0,9.0,8.0
+questions/Bean Leaf Beetle/4.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Bean Leaf Beetle/6.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Bean Leaf Beetle/7.txt,8.0,7.0,9.0,9.0,7.0,7.0,9.0,8.0
+questions/Bean Leaf Beetle/3.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,8.0
+questions/Bean Leaf Beetle/2.txt,8.0,8.0,8.0,8.0,8.0,9.0,9.0,8.0
+questions/Bean Leaf Beetle/1.txt,8.0,8.0,8.0,8.0,8.0,8.0,9.0,8.0
+questions/Dectes Stem Borer/10.txt,8.0,8.0,9.0,7.0,8.0,8.0,1.0,9.0
+questions/Dectes Stem Borer/9.txt,8.0,5.0,8.0,7.0,7.0,8.0,7.0,9.0
+questions/Dectes Stem Borer/8.txt,8.0,7.0,8.0,8.0,7.0,7.0,9.0,8.0
+questions/Dectes Stem Borer/5.txt,9.0,9.0,9.0,9.0,9.0,8.0,9.0,7.0
+questions/Dectes Stem Borer/4.txt,8.0,8.0,9.0,8.0,8.0,8.0,8.0,9.0
+questions/Dectes Stem Borer/6.txt,9.0,8.0,9.0,9.0,7.0,8.0,9.0,8.0
+questions/Dectes Stem Borer/7.txt,8.0,8.0,8.0,7.0,8.0,8.0,5.0,8.0
+questions/Dectes Stem Borer/3.txt,9.0,7.0,9.0,9.0,8.0,9.0,9.0,8.0
+questions/Dectes Stem Borer/2.txt,9.0,9.0,9.0,8.0,8.0,9.0,9.0,9.0
+questions/Dectes Stem Borer/1.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Western Corn Rootworm/10.txt,8.0,8.0,9.0,8.0,8.0,8.0,8.0,8.0
+questions/Western Corn Rootworm/9.txt,8.0,8.0,9.0,8.0,8.0,9.0,5.0,8.0
+questions/Western Corn Rootworm/8.txt,9.0,8.0,9.0,8.0,7.0,8.0,8.0,9.0
+questions/Western Corn Rootworm/5.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Western Corn Rootworm/4.txt,9.0,8.0,9.0,8.0,8.0,9.0,9.0,9.0
+questions/Western Corn Rootworm/6.txt,9.0,9.0,9.0,9.0,9.0,9.0,8.0,9.0
+questions/Western Corn Rootworm/7.txt,8.0,8.0,9.0,8.0,8.0,8.0,9.0,8.0
+questions/Western Corn Rootworm/3.txt,9.0,9.0,9.0,7.0,9.0,9.0,5.0,8.0
+questions/Western Corn Rootworm/2.txt,9.0,9.0,9.0,9.0,8.0,8.0,9.0,8.0
+questions/Western Corn Rootworm/1.txt,8.0,8.0,9.0,8.0,9.0,8.0,9.0,8.0
+questions/Cloverworm/10.txt,9.0,6.0,8.0,7.0,7.0,7.0,8.0,8.0
+questions/Cloverworm/9.txt,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+questions/Cloverworm/8.txt,8.0,5.0,9.0,8.0,8.0,8.0,8.0,8.0
+questions/Cloverworm/5.txt,9.0,8.0,8.0,9.0,9.0,8.0,9.0,9.0
+questions/Cloverworm/4.txt,8.0,9.0,8.0,8.0,9.0,6.0,3.0,9.0
+questions/Cloverworm/6.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+questions/Cloverworm/7.txt,9.0,9.0,9.0,9.0,9.0,9.0,9.0,7.0
+questions/Cloverworm/3.txt,9.0,9.0,9.0,5.0,9.0,9.0,8.0,9.0
+questions/Cloverworm/2.txt,8.0,8.0,8.0,8.0,8.0,8.0,6.0,8.0
+questions/Cloverworm/1.txt,9.0,9.0,9.0,9.0,8.0,8.0,9.0,8.0
+Average,8.57,8.19,8.63,8.22,8.14,8.25,8.22,8.27

@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about biological control methods for Southern Corn Rootworm. It correctly identifies entomopathogenic nematodes, natural predators, and entomopathogenic fungi as effective biocontrol agents. The genera of nematodes (Steinernema and Heterorhabditis) and the families of predatory beetles (Carabidae and Cantharidae) are accurately mentioned. The fungal species (Beauveria bassiana and Metarhizium anisopliae) are also correctly identified.]
+
+2. Comprehensiveness (2/2) [The response covers a wide range of biological control methods, including nematodes, predatory insects, and fungi. It also mentions the integration of these methods with other sustainable practices, providing a comprehensive overview of the topic.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It presents information in a logical order, explaining each biocontrol method separately and clearly.]
+
+4. Actionability (2/2) [The response provides specific, actionable advice. It mentions how to apply nematodes (as a drench or through irrigation systems), how to encourage beneficial insects (by providing habitat and reducing insecticide use), and how to apply entomopathogenic fungi (as soil drenches or seed treatments).]
+
+5. Relevance (1/1) [The answer is highly relevant to the farmer's question, directly addressing biological control methods for Southern Corn Rootworms.]
+
+6. Miscellaneous (-0) [No points subtracted.]
+
+Total Score: (9/9)

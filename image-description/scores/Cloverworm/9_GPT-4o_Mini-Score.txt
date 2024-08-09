@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as a moth, likely representing a species associated with pest infestations in crops, such as the Corn Earworm or other caterpillars. The description provides specific details about the moth's coloration and camouflage, indicating a thorough observation of the image.
+
+2. Damage Description (3/3) - The description thoroughly explains the potential damage caused by the pest, including the larvae or caterpillar stage feeding on leaves, buds, or ears, leading to visible damage such as holes in leaves, wilting, or fruit loss. The description also notes the impact on the overall health and yield of the affected plants, which could result in significant economic losses.
+
+3. Management Recommendations (3/3) - The description provides specific, actionable, and appropriate pest management recommendations, including monitoring for adult populations using pheromone traps, applying insecticides if thresholds are surpassed, and implementing integrated pest management practices. The description also suggests crop rotation, selecting pest-resistant varieties, and ensuring proper cultural practices to mitigate future infestations, as well as the importance of regular scouting and maintaining field records.
+
+Miscellaneous (0) - No deductions. The description is comprehensive, accurate, and relevant to the image and ground truth pest classification.
+
+Total Score: (9/9)

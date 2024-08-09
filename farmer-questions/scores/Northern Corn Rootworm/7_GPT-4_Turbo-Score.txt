@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about crop rotation's impact on Northern Corn Rootworm populations, including the pest's life cycle, the effect of non-host crops, and the adaptation of extended diapause in some areas. All statements are factually correct and well-verified.]
+
+2. Comprehensiveness (2/2) [The response thoroughly addresses all aspects of the question, including how crop rotation works against rootworms, examples of non-host crops, the reason for its effectiveness, and potential limitations due to pest adaptation.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It logically progresses from explaining the basic concept to more complex issues like pest adaptation.]
+
+4. Actionability (1/2) [While the answer provides good general advice on crop rotation, it lacks specific, practical details on implementation, such as recommended rotation schedules or how to monitor for extended diapause. This slightly reduces its actionability for farmers.]
+
+5. Relevance (1/1) [The response is highly relevant to the farmer's question, directly addressing the impact of crop rotation on Northern Corn Rootworm populations.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

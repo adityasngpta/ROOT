@@ -1,0 +1,13 @@
+1. Accuracy (1/2) [The answer contains some accurate information about weather effects on insect activity, but there's a significant error in conflating Cloverworms with Cutworms. These are different pests with distinct characteristics and behaviors. This mistake could lead to incorrect management strategies.]
+
+2. Comprehensiveness (1/2) [The response covers several aspects of how weather affects pest activity, including temperature, rainfall, and drought. However, it lacks specific details about Cloverworms' preferred weather conditions and doesn't mention humidity, which can be an important factor for many insect pests.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand, presenting information in a logical flow from general weather effects to specific examples and their implications.]
+
+4. Actionability (1/2) [The response provides some actionable advice, such as monitoring weather forecasts and adjusting scouting and management practices. However, it lacks specific, practical steps farmers can take in response to different weather conditions.]
+
+5. Relevance (1/1) [The answer directly addresses the farmer's question about how weather conditions affect pest activity and damage.]
+
+6. Miscellaneous (-1) [Subtracting an additional point for the significant error of confusing Cloverworms with Cutworms, as this mistake could lead to inappropriate pest management decisions.]
+
+Total Score: (5/9)

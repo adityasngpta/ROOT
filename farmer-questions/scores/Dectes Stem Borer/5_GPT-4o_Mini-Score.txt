@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about chemical control options for Dectes stem borers. It correctly mentions pyrethroids (lambda-cyhalothrin and cyfluthrin) and systemic insecticides (chlorantraniliprole) as effective options. The information about targeting the larval stage and the importance of timing is also accurate.]
+
+2. Comprehensiveness (2/2) [The response covers multiple aspects of chemical control, including specific insecticide types, timing of application, and the importance of integrating with other management practices. It also mentions monitoring pest populations and following label instructions, which are crucial aspects of effective pest management.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand. It presents information in a logical order, starting with types of insecticides, moving to application timing, and concluding with additional management considerations.]
+
+4. Actionability (2/2) [The response provides specific, actionable advice. It names particular insecticides, describes when to apply them (during early larval stages), and emphasizes the importance of monitoring and following label instructions. The suggestion to integrate chemical controls with cultural practices is also actionable.]
+
+5. Relevance (1/1) [The answer directly addresses the farmer's question about effective chemical control options for Dectes stem borers, providing relevant and specific information.]
+
+6. Miscellaneous (-0) [No points subtracted. The answer maintains a good balance between providing specific information and general best practices without including irrelevant or misleading content.]
+
+Total Score: (9/9)

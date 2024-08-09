@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Cloverworm moth, which matches the ground truth classification provided. The description also specifies the position of the pest on the plant.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the Cloverworm larvae, including irregular holes and skeletonizing of the leaves. It also explains the potential future impact on the plant's health, such as reduced photosynthetic capabilities, stunted growth, and yield loss.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including monitoring for early signs of larvae, using insecticides, encouraging natural predators, crop rotation, and maintaining plant health through proper fertilization and irrigation.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information observed.]
+
+Total Score: (9/9)

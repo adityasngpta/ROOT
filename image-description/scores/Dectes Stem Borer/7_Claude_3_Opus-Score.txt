@@ -1,0 +1,11 @@
+The description provided does not match the ground truth classification of the pest in the image, which is Dectes Stem Borer. Therefore, the scores will be adjusted accordingly.
+
+1. Pest Identification (1/3) [The description incorrectly identifies the pest as a Bean Leaf Beetle, when the ground truth is Dectes Stem Borer. The description provides some details about the Bean Leaf Beetle, but fails to accurately identify the pest in the image.]
+
+2. Damage Description (2/3) [The description provides some general information about the feeding damage caused by Bean Leaf Beetles, but does not address the specific damage caused by Dectes Stem Borers, which can significantly impact soybean yields.]
+
+3. Management Recommendations (2/3) [The recommendations provided are appropriate for managing Bean Leaf Beetles, but do not address the specific management strategies for Dectes Stem Borers, which may require different cultural, biological, or chemical control methods.]
+
+Miscellaneous (-1) [The description is focused on the wrong pest species, which is a significant error that impacts the overall quality and relevance of the information provided.]
+
+Total Score: (4/9)

@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about the existence of soybean varieties with resistance to Bean Leaf Beetles. It correctly mentions breeding programs, traits that make plants less attractive to pests, and the importance of consulting local agricultural extension services.]
+
+2. Comprehensiveness (1/2) [The answer covers the main aspects of resistant varieties but misses some important details. It doesn't mention specific variety names or the level of resistance these varieties offer. Additionally, it could have provided more information on how these resistant varieties work against Bean Leaf Beetles.]
+
+3. Clarity (2/2) [The answer is well-structured, easy to understand, and free of ambiguity. It presents information in a logical order, starting with the existence of resistant varieties and moving on to how they work and where to find more information.]
+
+4. Actionability (1/2) [The answer provides some actionable advice, such as consulting with local agricultural extension services and combining resistant varieties with integrated pest management practices. However, it lacks specific steps or examples of how a farmer might go about selecting and implementing these resistant varieties.]
+
+5. Relevance (1/1) [The answer is highly relevant to the farmer's question, directly addressing the issue of resistant soybean varieties against Bean Leaf Beetles.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (7/9)

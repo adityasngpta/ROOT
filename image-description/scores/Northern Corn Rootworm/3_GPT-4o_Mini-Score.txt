@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as a Northern Corn Rootworm, which matches the ground truth classification provided.
+
+2. Damage Description (2/3) - The description provides some details about the insect's appearance and how it blends into the foliage, but it lacks specifics on the potential damage or impact the pest could have on the crop.
+
+3. Management Recommendations (0/3) - The description does not provide any recommendations for managing or preventing this pest infestation.
+
+Miscellaneous (0) - No additional points deducted.
+
+Total Score: 5/9

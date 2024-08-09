@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the absence of any visible pests on the healthy soybean plant in the image.
+
+2. Damage Description (3/3) - The description thoroughly examines the plant and correctly notes the lack of any visible damage or signs of pest infestation, indicating the plant is currently in a healthy state.
+
+3. Management Recommendations (3/3) - The description provides specific and appropriate recommendations for preventative pest management measures the farmer should consider, such as regular scouting, weed control, and potential use of preventative insecticides if recommended for the area and time of year.
+
+Miscellaneous (0) - No deductions, the description is comprehensive and accurate based on the provided image and ground truth information.
+
+Total Score: 9/9

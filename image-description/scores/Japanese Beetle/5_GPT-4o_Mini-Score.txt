@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description correctly identifies the pest as a bug resting on the plant leaves, but it does not specify that the pest is a Japanese Beetle, which is the ground truth classification.]
+
+2. Damage Description (2/3) [The description mentions that the plant appears to be thriving, but it does not provide any details about potential damage or impact on the plant's health caused by the pest.]
+
+3. Management Recommendations (0/3) [The description does not provide any recommendations for managing or preventing the pest infestation.]
+
+Miscellaneous (-1) [The description fails to correctly identify the pest as a Japanese Beetle, which is the ground truth classification provided.]
+
+Total Score: (3/9)

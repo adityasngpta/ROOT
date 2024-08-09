@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description accurately identifies the pest as a small insect or creature that blends in with the environment, but it does not specifically identify the pest as a grasshopper, which is the correct ground truth classification. The description lacks the specificity required for full credit.]
+
+2. Damage Description (2/3) [The description mentions the textured surface, likely a tree bark, and the overall colors, including shades of green from the leaves, but it does not provide any details on the visible damage or potential future impact on the plant health.]
+
+3. Management Recommendations (0/3) [The description does not provide any management recommendations for addressing the pest infestation.]
+
+Miscellaneous (-1) [The description fails to identify the pest as a grasshopper, which is the correct ground truth classification. This is a significant error that warrants a point deduction.]
+
+Total Score: (3/9)

@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description fails to accurately identify the pest as the Northern Corn Rootworm, which is the ground truth classification. Instead, it suggests the pest could be a type of stink bug or other sucking insect, which is incorrect.]
+
+2. Damage Description (2/3) [The description provides a reasonable overview of the visible damage to the leaf, including a noticeable hole, which suggests the pest is feeding on the foliage. However, it lacks specificity on the potential future impact on the plant's health and yield.]
+
+3. Management Recommendations (2/3) [The description offers some general management recommendations, such as conducting a thorough inspection, using insecticidal soaps or neem oil for small populations, and implementing preventive measures. However, it lacks specificity on the appropriate chemical insecticides and application methods for the Northern Corn Rootworm.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest, which is a significant error.]
+
+Total Score: (3/9)

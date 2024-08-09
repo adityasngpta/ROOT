@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description correctly identifies the pest as Bean Leaf Beetles, but it does not match the ground truth classification of Japanese Beetle provided. The description should be updated to reflect the correct pest identification.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the Bean Leaf Beetles, including the rounded holes in the leaves, and the potential future impact on the soybean plants' health and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including scouting, monitoring population levels, applying registered insecticides if necessary, and implementing cultural practices to prevent future infestations.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest as Bean Leaf Beetles, when the ground truth classification is Japanese Beetle. This discrepancy needs to be addressed.]
+
+Total Score: (7/9)

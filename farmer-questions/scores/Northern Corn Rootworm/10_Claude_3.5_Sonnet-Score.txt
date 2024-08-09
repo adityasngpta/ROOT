@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about how temperature and moisture affect Northern Corn Rootworm (NCR) activity and damage. The effects of warmer temperatures on life cycle acceleration, earlier emergence, and increased generations are correctly stated. The impact of soil moisture on larval survival and movement is also accurately described.]
+
+2. Comprehensiveness (2/2) [The response thoroughly addresses the question, covering both temperature and moisture effects on NCR. It includes information on how these weather conditions impact different stages of the NCR life cycle, from eggs to larvae to adult emergence. The answer also touches on the implications for crop damage and provides a brief mention of management strategies.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It logically progresses from explaining the effects of temperature to moisture, and then to the implications for farmers. The language used is precise and free of ambiguity.]
+
+4. Actionability (1/2) [While the answer does provide some actionable advice, such as monitoring weather patterns and soil conditions, it lacks specific, detailed recommendations. The suggestion to adjust planting dates or consider resistant corn varieties is somewhat general. To score full points, more specific actionable steps or a range of management strategies could have been provided.]
+
+5. Relevance (1/1) [The answer is highly relevant to the farmer's question, directly addressing how weather conditions affect NCR activity and damage.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

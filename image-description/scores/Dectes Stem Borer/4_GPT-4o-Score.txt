@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as the Dectes Stem Borer, which is the correct ground truth classification for the pest in the image.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the Dectes Stem Borer, including the notching on the leaf edges and the potential impact on the plant's structural integrity and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, such as monitoring for adult beetles, crop rotation, timely harvesting, and targeted insecticide applications.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information.]
+
+Total Score: (9/9)

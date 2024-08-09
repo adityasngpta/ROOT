@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description correctly identifies the pest as a Japanese Beetle, but the ground truth is that the pest is a Bean Leaf Beetle, which is a different species. The description should have accurately identified the pest based on the provided ground truth information.]
+
+2. Damage Description (3/3) [The description thoroughly and accurately describes the visible damage caused by the pest, including the skeletonization of the leaves, and the potential impact on the plant's ability to photosynthesize and yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate recommendations for managing the Japanese Beetle infestation, including removing susceptible plants, using row covers, applying insecticides, and encouraging natural predators. These recommendations would also be applicable for managing a Bean Leaf Beetle infestation.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest as a Japanese Beetle, when the ground truth is that the pest is a Bean Leaf Beetle. This is a significant error that should be reflected in the overall score.]
+
+Total Score: (7/9)

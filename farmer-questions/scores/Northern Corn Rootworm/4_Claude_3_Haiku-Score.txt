@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about Bt corn hybrids and their effectiveness against Northern Corn Rootworms. The specific Bt proteins mentioned (Cry3Bb1, mCry3A, eCry3.1Ab) are correct, and the statement about 90% reduction in root damage and larval populations is supported by scientific literature.]
+
+2. Comprehensiveness (2/2) [The response covers all key aspects of the question, including the effectiveness of Bt corn, how it works, its benefits, and even touches on the importance of resistance management. It provides a thorough overview of the topic.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It progresses logically from explaining what Bt corn is to its effectiveness, benefits, and considerations for long-term use.]
+
+4. Actionability (1/2) [While the answer provides valuable information, it lacks specific, practical advice for farmers on how to implement Bt corn in their fields or how to carry out resistance management practices. It mentions rotating to non-Bt corn or using pyramided Bt traits but doesn't provide details on how to do this.]
+
+5. Relevance (1/1) [The response is highly relevant to the farmer's question, directly addressing the effectiveness of Bt corn hybrids against Northern Corn Rootworms.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

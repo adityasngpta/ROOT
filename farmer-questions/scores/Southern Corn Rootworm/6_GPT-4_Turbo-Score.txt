@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about economic thresholds for Southern Corn Rootworm, including the specific threshold of one beetle per plant for seedling corn. The response also correctly notes that thresholds can vary based on crop stage and other factors.]
+
+2. Comprehensiveness (1/2) [The answer covers the main aspects of economic thresholds for Southern Corn Rootworm, but it misses some important details. It doesn't mention specific thresholds for mature corn or provide information on how to calculate economic injury levels based on market value and control costs.]
+
+3. Clarity (2/2) [The answer is well-structured, easy to understand, and free of ambiguity. It presents information in a logical order, starting with seedling corn and progressing to mature plants.]
+
+4. Actionability (1/2) [The answer provides some actionable advice, such as monitoring fields regularly and considering treatment at one beetle per plant for seedling corn. However, it lacks specific guidance on how to conduct field monitoring or how to calculate economic thresholds based on market values and control costs.]
+
+5. Relevance (1/1) [The answer is highly relevant to the farmer's question, directly addressing economic thresholds for Southern Corn Rootworm control.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (7/9)

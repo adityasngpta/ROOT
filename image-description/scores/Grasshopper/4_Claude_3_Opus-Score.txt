@@ -1,0 +1,11 @@
+Based on the image and the ground truth classification provided, the pest in the image is a Grasshopper.
+
+1. Pest Identification (3/3) [The description accurately identifies the pest as a grasshopper and its position on the crop.]
+
+2. Damage Description (3/3) [The description thoroughly describes the potential damage that grasshoppers can cause to the crop, including chewing on leaves, stems, and fruits, leading to reduced plant growth and yield loss.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including monitoring, cultural control, biological control, chemical control, and baiting strategies.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information.]
+
+Total Score: (9/9)

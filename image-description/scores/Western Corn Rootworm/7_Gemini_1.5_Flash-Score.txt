@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description incorrectly identifies the pest as Japanese Beetles, when the ground truth classification is Western Corn Rootworm. The description does not accurately identify the pest species or its position on the crop.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the pest, including multiple holes and ragged edges on the leaves, as well as the potential future impact on pollination and kernel development, leading to reduced yield.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including hand-picking the beetles, using insecticidal soap or neem oil, attracting natural predators, and implementing preventative measures like planting resistant corn varieties and maintaining a healthy lawn.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information noted.]
+
+Total Score: (6/9)

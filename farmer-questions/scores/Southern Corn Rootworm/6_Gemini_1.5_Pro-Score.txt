@@ -1,0 +1,15 @@
+Here's my evaluation of the AI assistant's answer:
+
+1. Accuracy (2/2) [The answer provides accurate information about economic thresholds for Southern Corn Rootworm. The node-injury scale and the recommendation for treatment at an average of one node of root damage per plant are correct. The advice to consider factors like corn value, control costs, and potential yield loss is also accurate.]
+
+2. Comprehensiveness (2/2) [The response covers all key aspects of economic thresholds for Southern Corn Rootworm, including the focus on root damage rather than insect numbers, the importance of scouting during the larval stage, and consideration of various economic factors. It also mentions the relevance of field history and suggests consulting local experts.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand. It clearly explains that the threshold is based on root damage rather than insect counts, and provides a specific threshold (one node of root damage per plant) that farmers can use.]
+
+4. Actionability (1/2) [While the answer provides some actionable advice, such as scouting during the larval stage and considering various factors, it lacks specific details on how to assess root damage or implement the node-injury scale. More practical guidance on these aspects would have made the advice more immediately actionable.]
+
+5. Relevance (1/1) [The response directly addresses the farmer's question about economic thresholds for Southern Corn Rootworm control, providing relevant information and considerations.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

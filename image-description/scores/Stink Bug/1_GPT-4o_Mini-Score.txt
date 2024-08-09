@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest in the image as a Stink Bug, which matches the ground truth classification. The description provides specific details about the distinctive shield-like shape and coloration of the Stink Bug, demonstrating a thorough understanding of the pest's identifying features.
+
+2. Damage Description (3/3) - The description thoroughly explains the potential impact of Stink Bug infestations on crop health, including reduced vigor, yield loss, and symptoms such as yellowing leaves, stunted growth, and necrotic spots. The description clearly outlines the significant damage that Stink Bugs can cause to the surrounding crop.
+
+3. Management Recommendations (3/3) - The description provides specific, actionable, and appropriate recommendations for managing a Stink Bug infestation. These include monitoring for both adults and eggs, using insecticides labeled for Stink Bug control, encouraging natural predators, implementing crop rotation or intercropping strategies, and following good agricultural practices like field sanitation and timely harvesting. The recommendations are comprehensive and well-suited to addressing the Stink Bug pest.
+
+Miscellaneous (0) - The description is clear, concise, and relevant, with no significant errors, omissions, or irrelevant information.
+
+Total Score: (9/9)

@@ -1,0 +1,11 @@
+The description provided does not match the ground truth classification of the pest in the image, which is the Southern Corn Rootworm. Therefore, I will adjust the scores accordingly.
+
+1. Pest Identification (1/3) [The description identifies the insect as a Longhorned Beetle, which is not the correct pest classification. The description lacks specificity in identifying the Southern Corn Rootworm.]
+
+2. Damage Description (2/3) [The description acknowledges that Longhorned Beetle larvae can cause damage to woody plants, but does not provide any information about the potential impact of the Southern Corn Rootworm on the crop shown in the image.]
+
+3. Management Recommendations (2/3) [The description provides some general recommendations for managing Longhorned Beetle infestations, but does not offer any specific guidance for the Southern Corn Rootworm.]
+
+Miscellaneous (-1) [The description focuses on an incorrect pest identification, which is a significant error.]
+
+Total Score: (4/9)

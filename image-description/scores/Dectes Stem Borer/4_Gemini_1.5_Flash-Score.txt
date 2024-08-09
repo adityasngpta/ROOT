@@ -1,0 +1,8 @@
+The description provided does not match the ground truth classification of 'Dectes Stem Borer'. The image shows Japanese Beetles feeding on the soybean plant, not a Dectes Stem Borer. Therefore, I will update the scores accordingly:
+
+1. Pest Identification (2/3) [The description accurately identifies the pest as Japanese Beetles, but lacks specificity on the pest's position on the crop.]
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the Japanese Beetles and the potential future impact on the crop health.]
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations for controlling the Japanese Beetle infestation.]
+Miscellaneous (0) [No significant errors or omissions.]
+
+Total Score: 8/9

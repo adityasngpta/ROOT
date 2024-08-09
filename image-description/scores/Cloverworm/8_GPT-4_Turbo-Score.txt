@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) - The description accurately identifies the pest as a moth, likely a type of cutworm or armyworm moth, but does not provide the specific species identification of 'Cloverworm' as indicated by the ground truth. The description lacks the level of specificity required for full credit.
+
+2. Damage Description (3/3) - The description thoroughly describes the potential damage that could be caused by the larval stage of this pest, including cutting through stems near the soil surface and consuming foliage. The description also notes that there are no visible signs of damage in the immediate image, but close monitoring will be necessary.
+
+3. Management Recommendations (3/3) - The description provides specific, actionable, and appropriate recommendations for managing this pest, including monitoring for signs of damage, considering cultural and biological control methods, and using chemical controls only as a last resort following IPM principles.
+
+Miscellaneous (0) - No significant errors or omissions noted.
+
+Total Score: 8/9

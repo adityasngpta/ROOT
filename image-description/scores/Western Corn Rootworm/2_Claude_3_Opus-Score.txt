@@ -1,0 +1,11 @@
+Based on the image provided, the pest appears to be a Bean Leaf Beetle, not a Western Corn Rootworm as stated in the ground truth classification. Therefore, I will adjust the scoring accordingly.
+
+1. Pest Identification (2/3) [The description accurately identifies the pest as a Bean Leaf Beetle, but it does not match the ground truth classification of Western Corn Rootworm, resulting in a 1-point deduction.]
+
+2. Damage Description (3/3) [The description thoroughly describes the potential damage that Bean Leaf Beetles can cause to bean crops, including reduced plant vigor, stunted growth, and lower crop yields.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations for Bean Leaf Beetles, including integrated pest management strategies, use of insecticides, and cultural practices to prevent future infestations.]
+
+Miscellaneous (0) [No additional points deducted.]
+
+Total Score: (8/9)

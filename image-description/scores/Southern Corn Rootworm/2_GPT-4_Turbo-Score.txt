@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description accurately identifies the pest as a cucumber beetle, which is similar in appearance to the Southern Corn Rootworm but not the exact pest. The description provides relevant details about the spotted and colorful body of the insect, but does not correctly identify the pest as the ground truth Southern Corn Rootworm.]
+
+2. Damage Description (3/3) [The description thoroughly describes the potential damage caused by cucumber beetles, including feeding on leaves and stems, as well as their ability to vector diseases and viruses that can further harm the crops. The description also notes that the leaf in the image appears relatively healthy, suggesting early infestation stages or minor damage so far.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including regular monitoring, using floating row covers, applying insecticides carefully, planting trap crops, and maintaining garden cleanliness. These recommendations are well-suited to address the cucumber beetle infestation.]
+
+Miscellaneous (0) [No significant errors or omissions noted.]
+
+Total Score: 8/9

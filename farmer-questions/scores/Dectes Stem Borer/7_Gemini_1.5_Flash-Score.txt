@@ -1,0 +1,13 @@
+1. Accuracy (1/2) [The answer contains some accurate information about Dectes stem borer damage, but there are significant inaccuracies. The primary hosts mentioned (corn and sorghum) are incorrect; Dectes stem borer primarily affects soybeans and sunflowers. The statement about soil fertility decline is not well-established for this specific pest.]
+
+2. Comprehensiveness (1/2) [The answer covers some long-term effects but misses important details. It doesn't mention the cumulative effect on yield over multiple seasons or the potential for increased pest populations if left unchecked. The economic impact beyond just yield loss is not fully explored.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand, presenting information in a logical flow without ambiguity.]
+
+4. Actionability (1/2) [The answer suggests implementing preventative measures and monitoring, but it lacks specific, practical advice on how to do so. More detailed recommendations would improve actionability.]
+
+5. Relevance (1/1) [The answer directly addresses the question about long-term effects of Dectes stem borer on crop yield.]
+
+6. Miscellaneous (-1) [Deducting an additional point for the significant error in identifying primary host crops, which could lead to misguided management decisions.]
+
+Total Score: (5/9)

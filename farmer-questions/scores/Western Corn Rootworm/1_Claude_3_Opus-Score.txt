@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about Western Corn Rootworm infestation signs, including both adult and larval damage. The description of symptoms and the economic threshold are correct.]
+
+2. Comprehensiveness (2/2) [The response covers both early and later signs of infestation, addressing adult leaf feeding and larval root damage. It includes information on monitoring methods and management strategies, providing a thorough overview.]
+
+3. Clarity (2/2) [The answer is well-structured, clearly differentiating between adult and larval damage. Technical terms like "lodging" and "goosenecking" are explained, making the information easily understandable.]
+
+4. Actionability (2/2) [The response offers specific, actionable advice for farmers, including monitoring techniques (adult beetle observation and root digs) and a clear economic threshold (0.25 on a 0-3 scale) for implementing management strategies.]
+
+5. Relevance (1/1) [The answer directly addresses the farmer's question about early signs of Western Corn Rootworm infestation, providing relevant information specific to corn fields.]
+
+6. Miscellaneous (-0) [No points subtracted; the answer maintains high quality throughout.]
+
+Total Score: (9/9)

@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description incorrectly identifies the pest as Northern Corn Rootworm, when the ground truth is Southern Corn Rootworm. The description accurately describes the physical characteristics of the beetles, but the identification is inaccurate.]
+
+2. Damage Description (3/3) [The description thoroughly and accurately describes the visible damage to the corn plant leaves, as well as the potential future impact on crop health and yield if the infestation is left unchecked.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including monitoring, crop rotation, targeted insecticide application, and the use of resistant corn varieties.]
+
+Miscellaneous (0) [No additional points deducted.]
+
+Total Score: 6/9

@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about how weather conditions affect Northern Corn Rootworm (NCR) activity and damage. It correctly describes the impact of temperature and moisture on egg-laying, survival, hatching, and larval development.]
+
+2. Comprehensiveness (2/2) [The response thoroughly addresses various aspects of weather conditions affecting NCR, including temperature and moisture effects on different life stages (egg-laying, egg survival, hatching, and larval development). It also mentions the implications for crop damage and management strategies.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It logically progresses through different weather conditions and their effects on NCR life stages and potential damage.]
+
+4. Actionability (1/2) [While the answer provides valuable information, it lacks specific, practical advice for farmers. It mentions monitoring weather patterns but doesn't offer concrete steps or thresholds for action. To improve actionability, it could include specific temperature ranges or soil moisture levels that trigger certain NCR behaviors or warrant particular management actions.]
+
+5. Relevance (1/1) [The response is highly relevant to the farmer's question, directly addressing how weather conditions affect NCR activity and damage.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

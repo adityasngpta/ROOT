@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description correctly identifies the moth as a species from the Noctuidae family, commonly known as owlet moths, rather than a specific agricultural pest. The description does not accurately identify the pest as the ground truth classification of 'Cloverworm'.]
+
+2. Damage Description (2/3) [The description provides some details about the potential damage to the leaf, such as the small dark spots that could indicate fungal infection, nutrient deficiency, or early stages of pest damage. However, it does not directly link the presence of the moth to any specific damage or impact on the crop.]
+
+3. Management Recommendations (3/3) [The description provides appropriate and specific management recommendations, including monitoring for caterpillar activity, encouraging natural predators, using targeted pesticides if necessary, and maintaining overall plant health through proper nutrition and irrigation. The recommendation to consult with a local agricultural extension service is also relevant.]
+
+Miscellaneous (-1) [The description incorrectly identifies the pest as a moth from the Noctuidae family, rather than the ground truth classification of 'Cloverworm'.]
+
+Total Score: (4/9)

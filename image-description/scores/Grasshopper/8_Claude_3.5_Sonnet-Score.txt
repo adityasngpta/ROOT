@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a grasshopper and its location on the tree trunk, which is consistent with the ground truth classification and the visual evidence in the image.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage to the leaves, including holes and chewed edges, as well as the potential future impact on the overall health and fruit production of the tree. The details provided are comprehensive and aligned with the ground truth.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including the use of insecticidal sprays, introduction of natural predators, and preventive measures such as maintaining a clean orchard floor and implementing a cover crop strategy. The recommendations are well-suited to address the grasshopper infestation.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information observed.]
+
+Total Score: (9/9)

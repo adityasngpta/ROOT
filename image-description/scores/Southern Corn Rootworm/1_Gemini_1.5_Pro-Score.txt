@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description fails to identify the pest in the image, which is a Southern Corn Rootworm. The description states that the image depicts a healthy soybean plant with no visible signs of pest infestation, which is inaccurate.]
+
+2. Damage Description (0/3) [The description does not mention any damage or impact on the plant, as it incorrectly states that the soybean plant appears healthy and thriving with no visible issues.]
+
+3. Management Recommendations (0/3) [The description states that no pest management recommendations are necessary, which is incorrect given the presence of the Southern Corn Rootworm in the image.]
+
+Miscellaneous (-1) [The description provides inaccurate information about the contents of the image, which is a significant error.]
+
+Total Score: (0/9)

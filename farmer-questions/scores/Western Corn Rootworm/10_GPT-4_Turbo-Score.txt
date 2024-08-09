@@ -1,0 +1,13 @@
+1. Accuracy (2/2) [The answer provides accurate information about Western Corn Rootworm (WCR) activity in relation to weather conditions. It correctly states the optimal soil temperatures for egg hatching and the effects of moisture on larval survival and movement. The information about dry conditions and rainfall patterns is also accurate.]
+
+2. Comprehensiveness (2/2) [The response thoroughly addresses various aspects of how weather affects WCR, including temperature, moisture, and rainfall. It covers the impact on different life stages (eggs, larvae) and discusses both direct effects on the pest and indirect effects through plant stress.]
+
+3. Clarity (2/2) [The answer is well-structured and easy to understand. It presents information in a logical order, starting with optimal conditions and then discussing various weather factors. The language is clear and free of ambiguity.]
+
+4. Actionability (1/2) [While the answer provides valuable information that could inform pest management decisions, it lacks specific, practical advice for farmers. It mentions "timing control measures effectively" and gives examples of control methods, but doesn't provide detailed guidance on how to apply this knowledge.]
+
+5. Relevance (1/1) [The response is highly relevant to the farmer's question, directly addressing how weather conditions affect WCR activity and damage.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as the Northern Corn Rootworm beetle, providing specific details about its physical characteristics such as the yellow-green body with dark stripes running lengthwise.
+
+2. Damage Description (3/3) - The description thoroughly describes the visible damage on the leaf, including discoloration and minor holes, indicating feeding activity by the pest. It also provides a detailed explanation of the potential future impact on the crop, such as root pruning, stunted growth, reduced water and nutrient uptake, and increased susceptibility to lodging.
+
+3. Management Recommendations (3/3) - The description provides specific, actionable, and appropriate pest management recommendations, including crop rotation, the use of insecticides targeting both larvae and adults, and the importance of monitoring and employing integrated pest management (IPM) practices.
+
+Miscellaneous (0) - No deductions. The description is comprehensive, accurate, and relevant to the image and ground truth pest classification.
+
+Total Score: (9/9)

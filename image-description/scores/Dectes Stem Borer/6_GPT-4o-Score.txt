@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Dectes Stem Borer, recognizable by its elongated body and long antennae. The identification is specific and correct based on the ground truth provided.]
+
+2. Damage Description (3/3) [The description thoroughly explains the damage caused by the Dectes Stem Borer, including how it bores into plant stems, disrupts the vascular system, and leads to weakened stems that may break or lodge. The potential future impact on crop health is also clearly described.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including scouting for early signs of infestation, crop rotation, timely insecticide application, planting resistant varieties, and maintaining good field hygiene. The recommendations are comprehensive and well-suited to controlling Dectes Stem Borer infestations.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information noted.]
+
+Total Score: (9/9)

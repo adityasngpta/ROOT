@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as Bean Leaf Beetles, which are congregating on the soybean plant leaves and stem. The identification is specific and correct based on the ground truth classification of Cloverworm.
+
+2. Damage Description (3/3) - The description thoroughly describes the visible damage caused by the Bean Leaf Beetles, including numerous small holes throughout the leaves indicating feeding activity. It also notes the potential for reduced yield due to the defoliation and stunted growth of the soybean plant.
+
+3. Management Recommendations (3/3) - The description provides specific, actionable, and appropriate recommendations for managing the Bean Leaf Beetle infestation, including early detection and monitoring, cultural control methods, insecticide applications, biological control, and monitoring the effectiveness of the chosen control methods.
+
+Miscellaneous (0) - The description is comprehensive and does not contain any significant errors, omissions, or irrelevant information.
+
+Total Score: 9/9

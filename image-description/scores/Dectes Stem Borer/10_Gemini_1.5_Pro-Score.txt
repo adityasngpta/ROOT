@@ -1,0 +1,1 @@
+Since the image does not depict any visible pest infestation or damage, and the description accurately states that the soybean plant appears healthy, I will not provide a scoring evaluation. The description is appropriate given the ground truth that there is no pest present in the image.

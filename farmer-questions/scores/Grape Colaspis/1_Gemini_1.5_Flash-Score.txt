@@ -1,0 +1,13 @@
+1. Accuracy (0/2) [The answer contains significant inaccuracies. Grape Colaspis larvae are not the same as wireworms. They are different pests with distinct characteristics. The description provided is mostly for wireworms, not Grape Colaspis larvae.]
+
+2. Comprehensiveness (1/2) [While the answer provides some general information about pest damage in corn fields, it fails to address the specific characteristics of Grape Colaspis larvae. It misses important details about their appearance, size, and specific feeding habits.]
+
+3. Clarity (1/2) [The answer is structured clearly, but the information provided is misleading due to the confusion between Grape Colaspis larvae and wireworms. This affects the overall clarity and usefulness of the response.]
+
+4. Actionability (1/2) [The advice to take soil samples and consult with experts is actionable. However, the specific identification tips provided are not accurate for Grape Colaspis larvae, making the advice less practical.]
+
+5. Relevance (0/1) [While the answer attempts to address pest identification in corn fields, it fails to provide relevant information specific to Grape Colaspis larvae, which was the focus of the farmer's question.]
+
+6. Miscellaneous (-1) [An additional point is deducted for the potential harm that could result from misidentifying the pest due to the incorrect information provided.]
+
+Total Score: (2/9)

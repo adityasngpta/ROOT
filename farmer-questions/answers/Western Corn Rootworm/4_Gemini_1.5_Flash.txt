@@ -1,0 +1,9 @@
+Bt corn hybrids, engineered to produce toxins from the bacterium *Bacillus thuringiensis* (Bt), are highly effective against Western Corn Rootworms (WCR) in the early stages of the infestation.  The Bt toxins specifically target WCR larvae, disrupting their digestive system and causing mortality. These hybrids offer excellent control during the first and sometimes second generation of WCR, significantly reducing root damage and improving crop yield. However, it's crucial to understand that WCR are evolving resistance to Bt toxins. To maintain the effectiveness of Bt corn, a combination of strategies is essential: 
+
+* **Rotate crops:** Rotate corn with non-host crops like soybeans for at least two years. This disrupts the WCR lifecycle and prevents them from building up resistance.
+* **Use multiple Bt traits:** Plant corn hybrids with different Bt proteins to target different life stages of the WCR and slow down resistance development. 
+* **Monitor for resistance:** Regularly monitor your fields for signs of WCR damage, even in Bt corn. This helps detect potential resistance development and allows for timely intervention.
+* **Use non-Bt corn refuges:** Plant non-Bt corn in a small portion of your field (usually 5-20%). This provides a refuge for non-resistant WCR, slowing down the spread of resistance.
+* **Consider other control methods:** Integrate Bt corn with other control measures like biological control agents or insecticides when necessary, to provide comprehensive management and reduce reliance solely on Bt traits. 
+
+By implementing a combination of these tactics, you can prolong the effectiveness of Bt corn against WCR and ensure continued success in managing this significant pest. 

@@ -1,0 +1,11 @@
+Based on the image and the ground truth classification provided, the pest in the image is a Bean Leaf Beetle.
+
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Bean Leaf Beetle and correctly describes its distinctive oval shape and yellow-orange body with black spots, which are characteristic features of this species.]
+
+2. Damage Description (3/3) [The description thoroughly explains the potential damage caused by the Bean Leaf Beetle, including feeding on leaves, pods, and seeds, leading to holes, scars, and defoliation. It also mentions the beetle's ability to transmit plant viruses, which can further compromise the health of the crop.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including regular scouting, cultural practices, physical barriers, targeted insecticide application, and promoting natural predators and parasitoids. These strategies align well with an integrated pest management (IPM) approach.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information observed.]
+
+Total Score: (9/9)

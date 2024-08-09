@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as a Bean Leaf Beetle, providing specific details about its metallic green color and distinct white stripe. The identification is correct based on the ground truth classification.
+
+2. Damage Description (3/3) - The description thoroughly describes the visible damage caused by the Bean Leaf Beetle, including the holes and ragged edges on the soybean leaves. It also explains the potential future impact of the infestation, noting that the beetles can cause significant yield loss if left unchecked.
+
+3. Management Recommendations (3/3) - The description provides specific, actionable, and appropriate pest management recommendations, including the use of registered insecticides, the introduction of natural predators, and the implementation of crop rotation and resistant soybean varieties.
+
+Miscellaneous (0) - The description is comprehensive and does not contain any significant errors, omissions, or irrelevant information.
+
+Total Score: (9/9)

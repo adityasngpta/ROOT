@@ -1,0 +1,8 @@
+Based on the image and the provided ground truth classification, the pest present in the image is a Japanese Beetle.
+
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Japanese Beetle and its position on the crop.]
+2. Damage Description (3/3) [The description thoroughly describes the typical feeding damage caused by Japanese Beetles, including skeletonization of the leaves, and notes that the current damage appears to be limited to a single leaf.]
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate recommendations for managing the Japanese Beetle infestation, including monitoring, targeted insecticide treatment, physical barriers, and maintaining overall plant health.]
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information.]
+
+Total Score: (9/9)

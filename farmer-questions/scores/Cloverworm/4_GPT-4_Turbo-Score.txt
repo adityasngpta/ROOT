@@ -1,0 +1,13 @@
+1. Accuracy (1/2) [The answer contains some accurate information about monitoring cloverworms through field scouting and visual inspection. However, there's a significant error in identifying the scientific name of the green cloverworm. The correct scientific name is Hypena scabra, not Hypsopygia costalis (which is the European Clover Moth). This error reduces the overall accuracy of the response.]
+
+2. Comprehensiveness (2/2) [The answer addresses multiple aspects of the question, including the lack of specific pheromone traps, alternative monitoring methods, and management strategies. It provides a thorough overview of the situation.]
+
+3. Clarity (2/2) [The response is well-structured, clear, and easy to understand. It logically progresses from addressing the specific question about pheromone traps to providing alternative monitoring and management strategies.]
+
+4. Actionability (2/2) [The answer provides specific, actionable advice for farmers, including regular field scouting, visual inspection for feeding signs, and considering IPM strategies. It gives practical alternatives in the absence of pheromone traps.]
+
+5. Relevance (1/1) [The response is highly relevant to the farmer's question, directly addressing the issue of monitoring cloverworm populations and providing alternative methods when pheromone traps are not available.]
+
+6. Miscellaneous (-0) [No additional points subtracted.]
+
+Total Score: (8/9)

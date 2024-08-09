@@ -1,0 +1,10 @@
+Pest Cluster Region (1/1) [The analysis correctly identifies the pest cluster as located in the west region of the field.]
+Infestation Severity (1/1) [The analysis accurately determines the severity of the infestation as high, based on the high concentration of pests in the northwest corner.]
+Max Pest Count (1/1) [The analysis correctly identifies the most infested plant as having 9 pests.]
+Pest Cluster Size (1/1) [The analysis accurately determines the size of the pest cluster as 4 plants (2x2 area).]
+Total Pest Count (1/1) [The analysis correctly determines the total number of pests in the field as 14.]
+Field Size (1/1) [The analysis accurately identifies the field size as 5 rows by 7 columns.]
+Treatment Insights (3/3) [The analysis provides highly specific, data-driven recommendations for immediate and intensive pesticide treatment focused on the northwest corner of the field, as well as suggestions for ongoing monitoring and prevention measures to address the underlying factors contributing to the infestation. The recommendations are comprehensive, actionable, and well-aligned with the provided data.]
+Miscellaneous (0) [No significant errors or omissions were identified in the analysis.]
+
+Total Score: (9/9)

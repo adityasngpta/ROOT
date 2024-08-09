@@ -1,0 +1,10 @@
+I apologize, but I am unable to identify the specific pest in the image you provided. However, I can provide a general evaluation of the description based on the rubric you outlined.
+
+1. Pest Identification (0/3) [The description does not identify the pest species or its location on the crop, so it receives 0 points.]
+2. Damage Description (0/3) [The description does not mention any visible damage or potential future impact on the crop, so it receives 0 points.]
+3. Management Recommendations (0/3) [The description does not provide any pest management recommendations, so it receives 0 points.]
+Miscellaneous (0) [No additional points deducted.]
+
+Total Score: (0/9)
+
+Since the ground truth classification for the pest in the image is 'Dectes Stem Borer', and the description did not correctly identify the pest, the score has been adjusted accordingly. Please let me know if you have any other questions or if you would like me to provide general guidance on managing common agricultural pests based on the symptoms or issues you observe in your crops.

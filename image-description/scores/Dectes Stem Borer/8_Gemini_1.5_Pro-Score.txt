@@ -1,0 +1,9 @@
+1. Pest Identification (0/3) [The description does not identify any pest in the image. The image shows a healthy soybean plant with no visible signs of pest damage or infestation.]
+
+2. Damage Description (0/3) [The description correctly states that there is no visible damage to the plant in the image.]
+
+3. Management Recommendations (2/3) [The description provides some general, appropriate recommendations for preventive pest management practices, such as crop rotation, using pest-resistant varieties, and maintaining good field hygiene. However, it lacks specificity since there is no pest present in the image to provide targeted recommendations for.]
+
+Miscellaneous (0) [No deductions necessary.]
+
+Total Score: 2/9

@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a green beetle, providing details about its elongated body, vibrant green color, and antennae, which match the ground truth classification of the Northern Corn Rootworm.]
+
+2. Damage Description (2/3) [The description does not mention any visible damage to the plant or potential future impact on crop health. While the image shows the pest on a leaf, the description lacks information about the potential effects on the plant.]
+
+3. Management Recommendations (0/3) [The description does not provide any recommendations for managing or preventing the Northern Corn Rootworm infestation.]
+
+Miscellaneous (0) [No additional points deducted.]
+
+Total Score: (5/9)

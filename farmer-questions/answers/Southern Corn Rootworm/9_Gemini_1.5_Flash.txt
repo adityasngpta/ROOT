@@ -1,0 +1,7 @@
+Yes, there are corn varieties with resistance to Southern Corn Rootworms (SCRW). These varieties carry genes that produce a toxin harmful to SCRW larvae, offering some protection against damage. However, it's crucial to understand that resistance is not absolute. While resistant varieties can significantly reduce SCRW populations and damage, they don't eliminate the pest entirely. 
+
+The most common type of resistance is provided by the "Bt" gene, derived from the bacterium Bacillus thuringiensis.  This gene produces a protein toxic to SCRW larvae.  There are several Bt corn varieties available, each containing different Bt genes with varying levels of resistance to different SCRW populations.  
+
+It's vital to rotate Bt corn varieties with non-Bt corn to prevent the development of resistance in SCRW populations. This rotation disrupts the continuous exposure of SCRW to the same Bt toxin, slowing down the evolution of resistance.  
+
+Furthermore,  other management practices like using planting dates that avoid peak SCRW emergence,  crop rotation with non-corn crops, and using soil insecticides can be integrated with resistant varieties to achieve more effective pest management.  Always consult with your local extension service or a certified crop consultant for the best recommendations for your specific location and situation.  

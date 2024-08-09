@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) [The description accurately identifies the pest as a Bean Leaf Beetle, which is the correct ground truth classification for the pest in the image. The description provides specific details about the beetle's distinctive yellow or green body with black spots, which matches the visual evidence in the image.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by the Bean Leaf Beetle, including holes in the leaves. It also explains the potential future impact on the plant's health, such as reduced photosynthesis and overall plant stress, which can lead to lower yields and predispose the plant to further issues.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including monitoring for the beetles, using effective insecticides like neem oil or pyrethroids, implementing preventive measures like crop rotation and selecting resistant plant varieties, and regularly scouting the crops to identify and address infestations early.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information were found in the description.]
+
+Total Score: (9/9)

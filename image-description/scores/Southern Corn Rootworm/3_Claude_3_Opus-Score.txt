@@ -1,0 +1,11 @@
+Based on the image provided, the pest appears to be a Bean Leaf Beetle, not the Southern Corn Rootworm as stated in the ground truth information. The beetle has the distinctive yellow and black spotted pattern on its elytra (wing covers), which is a key identifying feature of the Bean Leaf Beetle species.
+
+1. Pest Identification (2/3) [The description correctly identifies the pest as a Bean Leaf Beetle, but lacks specificity in stating the position of the beetle on the crop.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage caused by Bean Leaf Beetles, including feeding on leaves, pods, and stems, as well as the potential impact on plant vigor and yield loss.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including scouting, cultural practices, physical barriers, targeted insecticide use, and encouraging natural predators.]
+
+Miscellaneous (0) [No significant errors, omissions, or irrelevant information.]
+
+Total Score: 8/9

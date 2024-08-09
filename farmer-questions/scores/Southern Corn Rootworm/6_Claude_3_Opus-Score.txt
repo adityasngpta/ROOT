@@ -1,0 +1,15 @@
+I will now evaluate the AI assistant's answer based on the provided rubric:
+
+1. Accuracy (2/2) [The answer provides accurate information about economic thresholds for Southern Corn Rootworm control. The thresholds mentioned for different growth stages and the larval count per plant are consistent with established guidelines.]
+
+2. Comprehensiveness (2/2) [The response covers multiple aspects of SCR control, including thresholds for different growth stages, assessment methods, cultural practices, and chemical control considerations. It addresses potential nuances such as the need to consider treatment costs against potential yield loss.]
+
+3. Clarity (2/2) [The answer is well-structured, clear, and easy to understand. It presents information in a logical order, starting with thresholds, moving to assessment methods, and concluding with control options.]
+
+4. Actionability (2/2) [The response provides specific, actionable advice. It gives clear thresholds for different growth stages, explains how to assess infestation levels, and suggests practical steps like crop rotation and consulting local extension services.]
+
+5. Relevance (1/1) [The answer is highly relevant to the farmer's question, directly addressing economic thresholds for Southern Corn Rootworm control and providing additional context.]
+
+6. Miscellaneous (-0) [No points subtracted.]
+
+Total Score: (9/9)

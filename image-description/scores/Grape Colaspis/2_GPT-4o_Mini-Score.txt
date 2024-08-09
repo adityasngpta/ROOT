@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description accurately identifies the pest as a type of beetle or leafcutter insect, but does not specifically name the Grape Colaspis pest as indicated by the ground truth. A more specific identification is needed to receive full points.]
+
+2. Damage Description (3/3) [The description thoroughly and accurately describes the visible damage to the leaf, including the holes and irregular patterns caused by insect feeding. The potential future impact on the plant's health is also noted.]
+
+3. Management Recommendations (0/3) [The description does not provide any specific, actionable recommendations for managing or preventing the Grape Colaspis pest infestation. Recommendations are needed to receive full points.]
+
+Miscellaneous (0) [No additional points deducted.]
+
+Total Score: (5/9)

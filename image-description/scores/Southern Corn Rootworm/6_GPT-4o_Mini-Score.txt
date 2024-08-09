@@ -1,0 +1,9 @@
+1. Pest Identification (2/3) [The description accurately identifies the pest as a Grape Colaspis beetle, but lacks specificity in confirming the ground truth classification of Southern Corn Rootworm.]
+
+2. Damage Description (3/3) [The description thoroughly describes the visible damage to the plant leaves and the potential future impact on plant health and yield potential.]
+
+3. Management Recommendations (3/3) [The description provides specific, actionable, and appropriate pest management recommendations, including monitoring, chemical control, and cultural practices.]
+
+Miscellaneous (0) [No significant errors or omissions.]
+
+Total Score: 8/9

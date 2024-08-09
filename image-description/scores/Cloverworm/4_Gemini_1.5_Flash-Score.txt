@@ -1,0 +1,9 @@
+1. Pest Identification (3/3) - The description accurately identifies the pest as a Cloverworm, which is the correct ground truth classification for the pest in the image.
+
+2. Damage Description (0/3) - The description does not provide any information about the damage caused by the Cloverworm or its potential impact on the crop health.
+
+3. Management Recommendations (0/3) - The description does not offer any recommendations for managing or preventing the Cloverworm infestation.
+
+Miscellaneous (-1) - The description is incomplete and lacks crucial information about the pest's impact and management, which are essential for a comprehensive pest assessment.
+
+Total Score: (3/9)

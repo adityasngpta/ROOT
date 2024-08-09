@@ -1,0 +1,7 @@
+When considering economic thresholds for Northern Corn Rootworm (NCR) control, it's important to assess the potential yield loss against the cost of treatment. Generally, if there is an average of 0.75 beetle per plant during the silk stage (R1) or an average of 0.5 beetle per plant during the milk stage (R3), this indicates a potentially damaging population that may require treatment in the following year's corn crop.
+
+However, these thresholds can vary depending on the value of the crop and the cost of the control method. If corn prices are high and control costs are relatively low, it may be economically justified to treat at lower beetle populations. Conversely, if corn prices are low and control costs are high, the economic threshold may be higher.
+
+It's also crucial to consider the field's history, including previous crop rotations and any past rootworm infestations. Continuous corn production and heavy rootworm pressure in previous years may necessitate a lower economic threshold.
+
+Regularly scouting fields, monitoring beetle populations, and considering factors such as crop value, control costs, and field history will help you make an informed decision on whether treatment is economically justified. Consulting with local extension agents or crop advisors can also provide valuable insights specific to your region and situation.
